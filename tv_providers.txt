@@ -1,0 +1,13 @@
+# DNS Switch - TV channels: providers (shown as sub-categories, in this order)
+# updated: 2026-10-03
+#
+# HOW TO EDIT
+# - One provider per line:   name | country code | package | channel list file
+# - Write {country} in the name to show the country in the device's language:
+#   "Zattoo {country}" shows as Zattoo Switzerland / Zattoo Suisse / Zattoo Suiza.
+# - Package is optional (leave it empty: "France Télévisions | FR |  | francetv.txt").
+# - The channel list file sits next to this one, one channel per line
+#   (same format as zattoo_ch.txt; lines starting with # are ignored).
+# - Lines starting with # are notes and are ignored.
+#
+Zattoo {country} | CH | Ultimate | zattoo_ch.txt
