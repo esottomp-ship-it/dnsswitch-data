@@ -11,3 +11,4 @@
 # - Lines starting with # are notes and are ignored.
 #
 Zattoo {country} | CH | Ultimate | zattoo_ch.txt
+France Télévisions | FR |  | francetv.txt

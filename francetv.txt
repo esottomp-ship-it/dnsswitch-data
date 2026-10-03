@@ -1,0 +1,15 @@
+# DNS Switch - TV channels: France Télévisions
+# updated: 2026-10-03
+#
+# Kept by hand: one channel per line. Lines starting with # are ignored.
+# Change the "updated" date above when you edit.
+#
+France 2
+France 3
+France 4
+France 5
+franceinfo
+Culturebox
+Slash
+Okoo
+Outre-mer La 1ère

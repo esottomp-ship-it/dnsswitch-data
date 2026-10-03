@@ -411,3 +411,12 @@ wedo Amor HD                          | ES
 1+1                                   | UA
 FREEDOM                               | UA
 Espreso TV HD                         | UA
+France 2                              | FR
+France 3                              | FR
+France 4                              | FR
+France 5                              | FR
+franceinfo                            | FR
+Culturebox                            | FR
+Slash                                 | FR
+Okoo                                  | FR
+Outre-mer La 1ère                     | FR
