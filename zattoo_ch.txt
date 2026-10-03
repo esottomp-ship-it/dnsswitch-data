@@ -1,0 +1,411 @@
+# DNS Switch - TV channels: Zattoo Switzerland (Ultimate)
+# updated: 2026-10-03
+# source: https://zattoo.com/ch/en/channels
+#
+# Updated automatically every week from Zattoo's channel page.
+# One channel per line, in Zattoo's order. Lines starting with # are ignored.
+# Manual edits are kept until Zattoo's list next changes.
+#
+BBC Two HD
+CNN International HD
+ITV 1 HD
+ITV 2 HD
+ITV 3 HD
+ITV 4 HD
+ITV Quiz HD
+BBC Four HD
+BBC News HD
+BBC Parliament HD
+Film 4
+Channel 4 HD
+Channel 5 HD
+E4
+More 4
+SRF 1 HD
+SRF zwei HD
+ZDF HD
+Das Erste HD
+RTL CH HD
+Pro7 Schweiz HD
+SRF info HD
+Sat.1 Schweiz HD
+VOX HD
+3+ HD
+3+ Movies HD
+RTLZWEI CH HD
+ORF1 HD
+Kabel Eins HD
+3+ Adrenalin HD
+ORF2 HD
+Puls 8 HD
+Kabel Eins Doku HD
+ARTE HD
+DMAX HD
+3+ Focus HD
+NITRO CH HD
+Telezüri HD
+ProSieben MAXX Schweiz HD
+Swiss 1 HD
+3+ Emotion HD
+3Sat HD
+3+ Series HD
+Deutsche Welle Spanish HD
+Sixx HD
+Orf III HD
+N24 Doku HD
+3+ Crime HD
+Star TV HD
+TELE 5 HD
+ZDFneo HD
+TLC HD
+Super RTL Schweiz HD
+Welt der Wunder HD
+Comedy Central HD
+VOXup HD
+RTLup HD
+BR Fernsehen Süd HD
+Disney Channel HD
+ZDFinfo HD
+Phoenix HD
+RTS 1 HD
+ONE HD
+HR HD
+Rocket Beans TV HD
+WDR Köln HD
+NDR Niedersachsen HD
+HGTV HD
+rbb Berlin HD
+RTS 2 HD
+TF1 HD
+MDR SACHSEN HD
+SWR BW HD
+3+ Family HD
+Kika HD
+Eurosport 1 HD
+M6 Suisse HD
+France 2 HD
+SR Fernsehen HD
+TOGGO plus HD
+Sport1 HD
+ANIXE HD Serie
+ARD-alpha HD
+Anixe+ HD
+France 3 HD
+TMC HD
+ARTE [fr] HD
+W9 Suisse HD
+France 5 HD
+tagesschau24 HD
+Radio Bremen TV HD
+Auftanken.TV HD
+RiC HD
+France 4 HD
+6ter HD
+TF1 Séries Films HD
+CSTAR HD
+CARAC 1 HD
+blue Zoom D HD
+Gulli HD
+TV5 Monde HD
+TV5 Monde FBS HD
+L'Équipe HD
+WELT HD
+RSI La2 HD
+RMC Story HD
+Canale 5 HD
+TeleBärn HD
+Super!
+RMC Découverte HD
+RMC Life HD
+RSI La1 HD
+BFM TV HD
+CNEWS HD
+CARAC 2 HD
+blue Zoom F HD
+HSE HD
+Rai Uno HD
+Tele M1 HD
+TeleBasel HD
+CARAC 3 HD
+LCI HD
+Tele Top HD
+HSE Extra HD
+HSE Trend
+MTV Germany HD
+Tele 1 HD
+Rai Due HD
+Cartoonito HD
+France Info HD
+Euronews [fr] HD
+Italia 1 HD
+Rai Tre HD
+TeleBielingue HD
+Cielo
+Rete 4 HD
+K2
+More Than Sports TV HD
+Rai 4 HD
+Sky News
+Rai Movie HD
+Schaffhauser Fernsehen HD
+TV8 HD
+TVO HD
+La5 HD
+Rai 5
+DELUXE MUSIC
+Tele D HD
+1FLTV HD
+La 7 HD
+TeleZ HD
+Frisbee
+TV8 Mont-Blanc HD
+Euronews [ger] HD
+LaTele HD
+Italia 2 HD
+Canal9 HD
+CARAC 5 HD
+NOVE HD
+Rai Premium HD
+Iris HD
+CNBC Europe HD
+20 Mediaset HD
+Leman Bleu HD
+Liechtensteiner Landeskanal HD
+DMAX Italia HD
+Rai Sport HD
+Boing HD
+4Seven
+TeleTicino HD
+R9 Österreich HD
+Boing Plus
+Real Time HD
+Cine34 HD
+La7 Cinema HD
+Al Jazeera English HD
+Rai Storia HD
+SuperTennis HD
+Rai News 24 HD
+Focus HD
+Bloomberg TV HD
+Canal Alpha NE HD
+Rai Gulp HD
+Mediaset Extra HD
+CARAC 4 HD
+TV Südostschweiz HD
+TV Oberwallis HD
+RTL 102.5 HD
+Kanal9 HD
+TV2000 HD
+Canal Alpha JU HD
+TVM3 HD
+Sky TG24
+Food Network
+5STAR
+U&Dave
+Rai Scuola HD
+Rai Yoyo
+5SELECT
+Giallo HD
+Euronews [it] HD
+Euronews [en] HD
+PBS America
+Canale Italia
+TOPcrime HD
+UniNettuno University TV
+France 24 HD [fr]
+5USA
+U&DRAMA
+HGTV Italy HD
+Alma TV HD
+Sportitalia HD
+Class TV Moda
+TgCom24 HD
+Bloomberg Originals HD
+France 24 HD [en]
+Now 90s
+One Music Television HD
+U&YESTERDAY
+Sky Mix HD
+DMF HD
+Melodie TV
+CBeebies HD
+Clubland TV
+Zwei Music Television HD
+CBBC HD
+Folx TV HD
+BBC Arabic HD
+Bibel TV HD
+Challenge
+Now 70s
+Now 80s
+BVN
+wetter.tv HD
+Fashion TV HD
+Deutsche Welle [en] HD
+S4C HD
+Radio Ticino Channel HD
+Deutsche Welle Arabic HD
+QS24 HD
+Helvetia One TV HD
+NHK WORLD-JAPAN HD
+K-TV HD
+KBS World HD
+KTO
+GOD TV
+Arirang TV HD
+SONLife
+BBC One London HD
+BBC Three HD
+BBC Red Button 1 HD
+BBC Scotland HD
+BBC Alba HD
+DMAX UK
+Quest HD
+Quest Red
+TRUE CRIME
+Great! Mystery
+Great! action
+Great! TV
+E4 Extra
+5ACTION
+Bauer, ledig, sucht... HD
+Zeno True Crime HD
+Servus TV Österreich HD
+Steiermark TV HD
+wedo movies HD
+wedo true stories HD
+Naruto HD
+Akiba Anime HD
+Amasia HD
+Netzkino HD
+Pastewka HD
+Rauchende Colts HD
+Himmlisches Kino HD
+Fabella HD
+ARD Plus Lindenstraße HD
+Telenovela ZDF HD
+Auf Achse HD
+Beverly Hills 90210 HD
+Big Brother Classics HD
+Familie Dr. Kleist HD
+Tempora TV HD
+Top Filme HD
+Andromeda HD
+Top Sci-Fi HD
+Serien+ HD
+Sooner HD
+Spooks HD
+Moviedome HD
+Moviedome Family HD
+Top Serien HD
+KultKrimi HD
+CRIME TIME HD
+Top True Crime HD
+ARD Plus Zoo HD
+Curiosity Now HD
+Spiegel TV HD
+Spiegel TV action+crime HD
+Spiegel TV Konflikte HD
+Terra Mater Wild HD
+time2Rlx HD
+One TERRA HD
+Royalworld HD
+XPLORE HD
+ZDF kocht! HD
+ZDF zu Hause HD
+Just.fishing HD
+JUST COOKING HD
+FarmLandTV HD
+Landlust TV HD
+Lucky Dog HD
+Marco Polo TV HD
+Nature Moments HD
+Nature Time HD
+wedo big stories HD
+Wheels & Steel HD
+DOKUSAT HD
+SAT.1 Gold Schweiz HD
+Abschnitt 40 HD
+Alles Action by Rakuten TV HD
+DEFA TV HD
+Don Matteo HD
+Bronco HD
+Grjngo HD
+H2O & Friends HD
+Herzfrequenz HD
+Stand-Up Comedy HD
+Comedy & Shows: Powered by Banijay HD
+Commissario Montalbano HD
+Ladykracher HD
+Stromberg HD
+Talk? Now! HD
+DF1 HD
+Filmgold HD
+OTVA HD
+Franken Plus HD
+Niederbayern TV HD
+München TV HD
+a.tv Sat HD
+Lilo.TV HD
+Canal B D HD
+regioTVplus HD
+Canal B F HD
+Network-TV HD
+Red Bull TV HD
+Höhenrausch HD
+Rally.TV FAST+ HD
+Swiss Sport TV HD
+Dyn Sport Mix HD
+Scooore HD
+Streamster TV HD
+wedo sports HD
+Al Arabiya
+Asharq News HD
+Al Aoula Inter HD
+Al Masriyah HD
+Oman TV HD
+Dubai TV HD
+Qatar TV
+ntv HD
+Schlager Deluxe
+DLX Dance by Kontor HD
+DLX Rap HD
+Telegold HD
+Volksmusik.TV HD
+Stimmungsgarten TV
+Radiofreccia HD
+Radio Italia TV HD
+Radionorba TV HD
+Fashion TV Secrets HD
+Hope TV HD
+Current Time TV HD
+CGTN HD
+CCTV 4
+CT 24 HD
+Duna Europa
+SLO-TV1 HD
+TV SLO2 HD
+RTS Svet HD
+RTSH Sat HD
+RTCG Sat HD
+CANAL+ en clair HD
+Wasabi HD
+TFX HD
+Homicide HD
+Docstory HD
+Enquetes de Choc HD
+Drive TV HD
+Y'a que la veritè qui compte HD
+LCP HD
+DISCOVERY TURBO HD
+27 Twentyseven HD
+wedo Film al Femminile HD
+Food Network HD
+Discovery Channel Italy HD
+Sportitalia Solocalcio HD
+TVE HD
+24H HD
+wedo Amor HD
+1+1
+FREEDOM
+Espreso TV HD
