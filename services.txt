@@ -1,0 +1,261 @@
+# DNS Switch - Streaming services
+# updated: 2026-10-03
+#
+# HOW TO EDIT
+# - One service per line:   Service name | country codes
+# - Country codes are 2 letters (ISO), separated by commas: US, GB, ES, FR...
+# - To add a service, add a line. To remove one, delete its line.
+# - Order doesn't matter: the app sorts the list itself.
+# - Lines starting with # are notes and are ignored.
+# - Change the "updated" date above when you edit, so you know which version the app shows.
+#
+4Music                         | GB
+6play                          | FR
+9Now                           | AU
+A&E TV                         | US
+ABC                            | US
+ABC iView                      | AU
+AbsoluteRadio                  | GB
+Acorn TV                       | US
+Aftonbladet                    | SE
+Allente TV                     | DK
+Alleskino                      | DE
+Amazon Prime                   | US
+AMC                            | US
+Animal Planet                  | US
+Animal Planet GO               | US
+Animax Network                 | JP
+AnimeLab                       | AU
+AOL On                         | US
+Ard Mediathek                  | DE
+Arte TV OnDemand               | FR, DE
+Asian Crush                    | US
+Atres Player                   | ES
+BBC iPlayer                    | GB
+BBC Radio                      | GB
+beIN CONNECT ES                | ES
+BeIN Sports AU                 | AU
+BeIN Sports Connect            | AE
+BeIN Sports France             | FR
+bibel TV                       | DE
+Bleacherreport                 | US
+BluTV                          | TR
+Boxer TV                       | DK
+Bravo                          | US
+Britbox                        | GB, US
+BT Sports                      | GB
+Canal Plus                     | FR
+CBC                            | CA
+CBS                            | US
+Channel4                       | GB
+CNBC                           | US
+CNN GO                         | US
+Comedy Central                 | US
+Comedy Network                 | US
+Cooking Channel                | US
+Cricket Australia              | AU
+Crunchyroll                    | US
+cwseed                         | US
+CWTV                           | US
+D-Smart Blu                    | TR
+DC UNIVERSE INFINITE           | US
+DirecTV Stream                 | US
+Discovery+                     | US
+Disney XD                      | US
+Disney+                        | US
+Disney+ Hotstar                | IN
+DIY Network                    | US
+DMAX                           | DE, GB
+DR                             | DK
+Einthusan                      | US
+ENCORE                         | GB
+Eonline                        | US
+ESPN                           | US
+ESPN GO US                     | US
+ESPN UK                        | GB
+EuroSports Player UK           | GB
+Fanatiz                        | US
+Fandor                         | US
+FLASH                          | AU
+FoodNetwork                    | US
+Fox                            | US
+FOX News                       | US
+FOX Sports                     | US
+FOX SPORTS GO                  | US
+FoxSports Australia            | AU
+FOXTEL                         | AU
+France TV                      | FR
+FranceTV Sport                 | FR
+Freevee                        | US
+Freeview Australia             | AU
+Funimation                     | US
+Funimation NOW                 | US
+FX Networks                    | US
+FX Networks NOW                | US
+Globo Brasil                   | BR
+Globoplay                      | BR
+Golf Channel                   | US
+Gulli Repay                    | FR
+Hallmark Channel               | US
+hayu                           | GB
+HGTV                           | US
+HIDIVE                         | US
+History                        | US
+History Canada                 | CA
+Hulu                           | US
+iBox Live                      | IE
+iHeart Radio                   | CA, US
+Investigation Discovery GO     | US
+Itv                            | GB
+Joyn                           | DE
+Kanopy                         | US
+Kayo Sports                    | AU
+Kocowa                         | US
+Last.fm                        | US
+Lifetime                       | US
+London Live                    | GB
+Magnolia Network               | US
+MasterChef Italia              | IT
+Masters                        | US
+max                            | US
+Maxdome                        | DE
+MBC                            | AE
+MediaSet Infinity              | IT
+mgm+                           | US
+Midnight Pulp                  | US
+MLB                            | US
+Molotov TV                     | FR
+MSG GO                         | US
+MSNBC                          | US
+MTV                            | US
+Mubi                           | AU, CA, DK, FI, FR, DE, SG, ES, SE, GB, US
+MX Player India                | IN
+My5                            | GB
+MyCanal                        | FR
+MySqueezeBox                   | US
+n-tv                           | DE
+National Geographic Channel    | US
+National Lottery               | GB
+NBA                            | US
+NBC                            | US
+NBC Sports                     | US
+NCAA                           | US
+Netflix                        | US
+NFL Game Pass                  | US
+NFL Now                        | US
+NHL GameCenter                 | US
+Nickelodeon                    | US
+Now TV                         | GB
+NZ Film On Demand              | NZ
+Ondemand Korea                 | US
+Oprah                          | US
+Optus Sport Australia          | AU
+ORF TVTHEK                     | AT
+OUTtv Go                       | CA
+Oxygen                         | US
+Pandora                        | US
+Paramount Plus                 | US
+PBS                            | US
+PBS Kids                       | US
+Peacock TV                     | US
+PGA                            | US
+Planet Rock                    | GB
+PLUTO TV                       | US
+PopcornFlix                    | US
+Professional Darts Corporation | US
+ProSieben                      | DE
+Puhu TV                        | TR
+RAI                            | IT
+Redbox                         | US
+Reelz                          | US
+RSI                            | CH
+RTR                            | CH
+RTS                            | CH
+rTVe                           | ES
+SBS                            | AU
+Science Channel GO             | US
+Screambox                      | US
+SelectTV                       | US
+ServusTV                       | AT
+Seven Network Australia        | AU
+SFR SPORT                      | FR
+SHOWCASE Canada                | CA
+Showtime                       | US
+SHOWTIME ANYTIME               | US
+SHUDDER                        | US
+SimpleStream                   | GB
+SiriusXM                       | US
+sixx                           | DE
+Sky Go App                     | GB
+Sky Go Germany                 | DE
+sledovani tv                   | CZ
+Sling                          | US
+Smithsonian Channel            | US
+Sony Crackle                   | US
+SONY LIV                       | IN
+South Park Studios             | US
+sport1                         | DE
+SportsNet                      | CA
+SRF                            | CH
+Stan AU                        | AU
+Starz                          | US
+SUNDANCE NOW                   | US
+Super Rugby                    | GB
+Sveriges Radio                 | SE
+SVT Play                       | SE
+SwagBucks                      | US
+Swiss INFO                     | CH
+SyFy HD                        | US
+Tata Sky                       | IN
+TBS                            | US
+Teleboy                        | CH
+Tennis Channel                 | US
+tenplay                        | AU
+TF1                            | FR
+The Criterion Channel          | US
+ThreeNOW                       | NZ
+Tidal                          | US
+TLC GO                         | US
+TNT Drama                      | US
+Total Channel                  | ES
+Travel Channel                 | US
+Tubi TV                        | US
+TV Spielfilm                   | DE
+TV2                            | DK
+TV3 SPORT                      | DK
+TV4 Play                       | SE
+TVA Nouvelles                  | CA
+TVB Anywhere                   | US
+TVFPlay                        | IN
+TVNZ                           | NZ
+TVPlayer                       | GB
+UFC                            | US
+UKTV Play                      | GB
+Universal Kids                 | US
+US Open                        | US
+VH1                            | US
+Viaplay DK                     | DK
+Viaplay NO                     | NO
+Viaplay SE                     | SE
+Videoland                      | NL
+Viki                           | US
+ViX                            | US
+VRT                            | BE
+VUDU                           | US
+VUDU/Fandango                  | US
+Warner Bros. Television        | US
+WatchAFL                       | AU
+WELT                           | DE
+WILLOW TV                      | US
+WOW TV                         | DE
+WWE Network                    | US
+xFinity                        | US
+XumoTV                         | US
+yallo TV                       | CH
+YouSee                         | DK
+YuppTV                         | AU, IN, GB
+Zattoo                         | DE, CH
+ZDF                            | DE
+ZDF TiVi                       | DE
+Zee Family                     | IN
+ZEE5                           | IN
