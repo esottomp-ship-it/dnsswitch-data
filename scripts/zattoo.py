@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 """Refresh zattoo_ch.txt from Zattoo Switzerland's public channel page.
 
-Lists every channel included in the Ultimate subscription, in Zattoo's own order.
+Lists every channel included in the Ultimate subscription, in Zattoo's own order,
+as "name | quality": the name without "HD", and the picture quality in Ultimate
+(SD, HD or Full HD) as a separate field.
 The file is rewritten only when the channel list itself changes. If the page
 can't be read, or looks wrong, the script fails and the last good list stays.
 """
@@ -20,6 +22,14 @@ def fetch() -> str:
         return r.read().decode("utf-8", "replace")
 
 
+QUALITY = {"fhd": "Full HD", "uhd": "4K", "hd": "HD", "sd": "SD"}
+
+
+def clean(name: str) -> str:
+    """'BBC Two HD' -> 'BBC Two', 'France 24 HD [fr]' -> 'France 24 [fr]'."""
+    return " ".join(w for w in name.split() if w.upper() != "HD")
+
+
 def from_state(page: str) -> list[str]:
     """Channel data embedded in the page (window.__PRELOADED_STATE__)."""
     start = page.find('"locale":{')
@@ -27,21 +37,26 @@ def from_state(page: str) -> list[str]:
     if key < 0:
         return []
     channels, _ = json.JSONDecoder().raw_decode(page, key + len('"channels":'))
-    return [c["title"] for c in channels.values()
-            if isinstance(c, dict) and c.get("title") and c.get("ultimate")]
+    out = []
+    for c in channels.values():
+        if isinstance(c, dict) and c.get("title") and c.get("ultimate"):
+            q = QUALITY.get(str(c["ultimate"]).lower())
+            out.append(f"{clean(c['title'])} | {q}" if q else clean(c["title"]))
+    return out
 
 
 def from_markup(page: str) -> list[str]:
     """Fallback: the tick icons in the visible table."""
-    return [html.unescape(html.unescape(t)) for t in
+    return [clean(html.unescape(html.unescape(t))) for t in
             re.findall(r'alt="([^"]+?) included in Ultimate subscription"', page)]
 
 
 def unique(names):
     seen, out = set(), []
     for n in (" ".join(x.split()) for x in names):
-        if n and n.casefold() not in seen:
-            seen.add(n.casefold())
+        key = n.split("|")[0].strip().casefold()
+        if n and key not in seen:
+            seen.add(key)
             out.append(n)
     return out
 
@@ -75,7 +90,8 @@ def main() -> int:
         f"# source: {URL}\n"
         "#\n"
         "# Updated automatically every week from Zattoo's channel page.\n"
-        "# One channel per line, in Zattoo's order. Lines starting with # are ignored.\n"
+        "# One channel per line, in Zattoo's order:  name | picture quality in Ultimate.\n"
+        "# Lines starting with # are ignored.\n"
         "# Manual edits are kept until Zattoo's list next changes.\n"
         "#\n"
     )

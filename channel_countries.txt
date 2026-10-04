@@ -1,422 +1,417 @@
 # DNS Switch - TV channels: country of each channel (used to group channels by country)
-# updated: 2026-10-03
+# updated: 2026-10-04
 #
 # HOW TO EDIT
-# - One channel per line:   channel name (exactly as in the channel list) | country code
+# - One channel per line:   channel name (as in the channel list, without the quality) | country code
 # - Country codes are 2 letters (ISO): CH, DE, AT, FR, IT, GB... Use INT for international channels.
 # - Countries with fewer than 3 channels are shown together under "International".
 # - Channels not listed here are also shown under "International".
 # - Shared by all providers (one line per channel name is enough).
 #
-BBC Two HD                            | GB
-CNN International HD                  | INT
-ITV 1 HD                              | GB
-ITV 2 HD                              | GB
-ITV 3 HD                              | GB
-ITV 4 HD                              | GB
-ITV Quiz HD                           | GB
-BBC Four HD                           | GB
-BBC News HD                           | GB
-BBC Parliament HD                     | GB
-Film 4                                | GB
-Channel 4 HD                          | GB
-Channel 5 HD                          | GB
-E4                                    | GB
-More 4                                | GB
-SRF 1 HD                              | CH
-SRF zwei HD                           | CH
-ZDF HD                                | DE
-Das Erste HD                          | DE
-RTL CH HD                             | CH
-Pro7 Schweiz HD                       | CH
-SRF info HD                           | CH
-Sat.1 Schweiz HD                      | CH
-VOX HD                                | DE
-3+ HD                                 | CH
-3+ Movies HD                          | CH
-RTLZWEI CH HD                         | CH
-ORF1 HD                               | AT
-Kabel Eins HD                         | DE
-3+ Adrenalin HD                       | CH
-ORF2 HD                               | AT
-Puls 8 HD                             | CH
-Kabel Eins Doku HD                    | DE
-ARTE HD                               | DE
-DMAX HD                               | DE
-3+ Focus HD                           | CH
-NITRO CH HD                           | CH
-Telezüri HD                           | CH
-ProSieben MAXX Schweiz HD             | CH
-Swiss 1 HD                            | CH
-3+ Emotion HD                         | CH
-3Sat HD                               | DE
-3+ Series HD                          | CH
-Deutsche Welle Spanish HD             | DE
-Sixx HD                               | DE
-Orf III HD                            | AT
-N24 Doku HD                           | DE
-3+ Crime HD                           | CH
-Star TV HD                            | CH
-TELE 5 HD                             | DE
-ZDFneo HD                             | DE
-TLC HD                                | DE
-Super RTL Schweiz HD                  | CH
-Welt der Wunder HD                    | DE
-Comedy Central HD                     | DE
-VOXup HD                              | DE
-RTLup HD                              | DE
-BR Fernsehen Süd HD                   | DE
-Disney Channel HD                     | DE
-ZDFinfo HD                            | DE
-Phoenix HD                            | DE
-RTS 1 HD                              | CH
-ONE HD                                | DE
-HR HD                                 | DE
-Rocket Beans TV HD                    | DE
-WDR Köln HD                           | DE
-NDR Niedersachsen HD                  | DE
-HGTV HD                               | DE
-rbb Berlin HD                         | DE
-RTS 2 HD                              | CH
-TF1 HD                                | FR
-MDR SACHSEN HD                        | DE
-SWR BW HD                             | DE
-3+ Family HD                          | CH
-Kika HD                               | DE
-Eurosport 1 HD                        | DE
-M6 Suisse HD                          | CH
-France 2 HD                           | FR
-SR Fernsehen HD                       | DE
-TOGGO plus HD                         | DE
-Sport1 HD                             | DE
-ANIXE HD Serie                        | DE
-ARD-alpha HD                          | DE
-Anixe+ HD                             | DE
-France 3 HD                           | FR
-TMC HD                                | FR
-ARTE [fr] HD                          | FR
-W9 Suisse HD                          | CH
-France 5 HD                           | FR
-tagesschau24 HD                       | DE
-Radio Bremen TV HD                    | DE
-Auftanken.TV HD                       | DE
-RiC HD                                | DE
-France 4 HD                           | FR
-6ter HD                               | FR
-TF1 Séries Films HD                   | FR
-CSTAR HD                              | FR
-CARAC 1 HD                            | CH
-blue Zoom D HD                        | CH
-Gulli HD                              | FR
-TV5 Monde HD                          | FR
-TV5 Monde FBS HD                      | FR
-L'Équipe HD                           | FR
-WELT HD                               | DE
-RSI La2 HD                            | CH
-RMC Story HD                          | FR
-Canale 5 HD                           | IT
-TeleBärn HD                           | CH
-Super!                                | IT
-RMC Découverte HD                     | FR
-RMC Life HD                           | FR
-RSI La1 HD                            | CH
-BFM TV HD                             | FR
-CNEWS HD                              | FR
-CARAC 2 HD                            | CH
-blue Zoom F HD                        | CH
-HSE HD                                | DE
-Rai Uno HD                            | IT
-Tele M1 HD                            | CH
-TeleBasel HD                          | CH
-CARAC 3 HD                            | CH
-LCI HD                                | FR
-Tele Top HD                           | CH
-HSE Extra HD                          | DE
-HSE Trend                             | DE
-MTV Germany HD                        | DE
-Tele 1 HD                             | CH
-Rai Due HD                            | IT
-Cartoonito HD                         | IT
-France Info HD                        | FR
-Euronews [fr] HD                      | INT
-Italia 1 HD                           | IT
-Rai Tre HD                            | IT
-TeleBielingue HD                      | CH
-Cielo                                 | IT
-Rete 4 HD                             | IT
-K2                                    | IT
-More Than Sports TV HD                | DE
-Rai 4 HD                              | IT
-Sky News                              | GB
-Rai Movie HD                          | IT
-Schaffhauser Fernsehen HD             | CH
-TV8 HD                                | IT
-TVO HD                                | CH
-La5 HD                                | IT
-Rai 5                                 | IT
-DELUXE MUSIC                          | DE
-Tele D HD                             | CH
-1FLTV HD                              | LI
-La 7 HD                               | IT
-TeleZ HD                              | CH
-Frisbee                               | IT
-TV8 Mont-Blanc HD                     | FR
-Euronews [ger] HD                     | INT
-LaTele HD                             | CH
-Italia 2 HD                           | IT
-Canal9 HD                             | CH
-CARAC 5 HD                            | CH
-NOVE HD                               | IT
-Rai Premium HD                        | IT
-Iris HD                               | IT
-CNBC Europe HD                        | INT
-20 Mediaset HD                        | IT
-Leman Bleu HD                         | CH
-Liechtensteiner Landeskanal HD        | LI
-DMAX Italia HD                        | IT
-Rai Sport HD                          | IT
-Boing HD                              | IT
-4Seven                                | GB
-TeleTicino HD                         | CH
-R9 Österreich HD                      | AT
-Boing Plus                            | IT
-Real Time HD                          | IT
-Cine34 HD                             | IT
-La7 Cinema HD                         | IT
-Al Jazeera English HD                 | QA
-Rai Storia HD                         | IT
-SuperTennis HD                        | IT
-Rai News 24 HD                        | IT
-Focus HD                              | IT
-Bloomberg TV HD                       | INT
-Canal Alpha NE HD                     | CH
-Rai Gulp HD                           | IT
-Mediaset Extra HD                     | IT
-CARAC 4 HD                            | CH
-TV Südostschweiz HD                   | CH
-TV Oberwallis HD                      | CH
-RTL 102.5 HD                          | IT
-Kanal9 HD                             | CH
-TV2000 HD                             | IT
-Canal Alpha JU HD                     | CH
-TVM3 HD                               | CH
-Sky TG24                              | IT
-Food Network                          | GB
-5STAR                                 | GB
-U&Dave                                | GB
-Rai Scuola HD                         | IT
-Rai Yoyo                              | IT
-5SELECT                               | GB
-Giallo HD                             | IT
-Euronews [it] HD                      | INT
-Euronews [en] HD                      | INT
-PBS America                           | GB
-Canale Italia                         | IT
-TOPcrime HD                           | IT
-UniNettuno University TV              | IT
-France 24 HD [fr]                     | FR
-5USA                                  | GB
-U&DRAMA                               | GB
-HGTV Italy HD                         | IT
-Alma TV HD                            | INT
-Sportitalia HD                        | IT
-Class TV Moda                         | IT
-TgCom24 HD                            | IT
-Bloomberg Originals HD                | INT
-France 24 HD [en]                     | FR
-Now 90s                               | GB
-One Music Television HD               | DE
-U&YESTERDAY                           | GB
-Sky Mix HD                            | INT
-DMF HD                                | DE
-Melodie TV                            | AT
-CBeebies HD                           | GB
-Clubland TV                           | GB
-Zwei Music Television HD              | DE
-CBBC HD                               | GB
-Folx TV HD                            | AT
-BBC Arabic HD                         | GB
-Bibel TV HD                           | DE
-Challenge                             | GB
-Now 70s                               | GB
-Now 80s                               | GB
-BVN                                   | NL
-wetter.tv HD                          | DE
-Fashion TV HD                         | INT
-Deutsche Welle [en] HD                | DE
-S4C HD                                | GB
-Radio Ticino Channel HD               | CH
-Deutsche Welle Arabic HD              | DE
-QS24 HD                               | CH
-Helvetia One TV HD                    | CH
-NHK WORLD-JAPAN HD                    | JP
-K-TV HD                               | AT
-KBS World HD                          | KR
-KTO                                   | FR
-GOD TV                                | INT
-Arirang TV HD                         | KR
-SONLife                               | INT
-BBC One London HD                     | GB
-BBC Three HD                          | GB
-BBC Red Button 1 HD                   | GB
-BBC Scotland HD                       | GB
-BBC Alba HD                           | GB
-DMAX UK                               | GB
-Quest HD                              | GB
-Quest Red                             | GB
-TRUE CRIME                            | GB
-Great! Mystery                        | GB
-Great! action                         | GB
-Great! TV                             | GB
-E4 Extra                              | GB
-5ACTION                               | GB
-Bauer, ledig, sucht... HD             | CH
-Zeno True Crime HD                    | DE
-Servus TV Österreich HD               | AT
-Steiermark TV HD                      | AT
-wedo movies HD                        | DE
-wedo true stories HD                  | DE
-Naruto HD                             | DE
-Akiba Anime HD                        | DE
-Amasia HD                             | DE
-Netzkino HD                           | DE
-Pastewka HD                           | DE
-Rauchende Colts HD                    | DE
-Himmlisches Kino HD                   | DE
-Fabella HD                            | DE
-ARD Plus Lindenstraße HD              | DE
-Telenovela ZDF HD                     | DE
-Auf Achse HD                          | DE
-Beverly Hills 90210 HD                | DE
-Big Brother Classics HD               | DE
-Familie Dr. Kleist HD                 | DE
-Tempora TV HD                         | DE
-Top Filme HD                          | DE
-Andromeda HD                          | DE
-Top Sci-Fi HD                         | DE
-Serien+ HD                            | DE
-Sooner HD                             | DE
-Spooks HD                             | DE
-Moviedome HD                          | DE
-Moviedome Family HD                   | DE
-Top Serien HD                         | DE
-KultKrimi HD                          | DE
-CRIME TIME HD                         | DE
-Top True Crime HD                     | DE
-ARD Plus Zoo HD                       | DE
-Curiosity Now HD                      | DE
-Spiegel TV HD                         | DE
-Spiegel TV action+crime HD            | DE
-Spiegel TV Konflikte HD               | DE
-Terra Mater Wild HD                   | AT
-time2Rlx HD                           | DE
-One TERRA HD                          | DE
-Royalworld HD                         | DE
-XPLORE HD                             | DE
-ZDF kocht! HD                         | DE
-ZDF zu Hause HD                       | DE
-Just.fishing HD                       | DE
-JUST COOKING HD                       | DE
-FarmLandTV HD                         | DE
-Landlust TV HD                        | DE
-Lucky Dog HD                          | DE
-Marco Polo TV HD                      | DE
-Nature Moments HD                     | DE
-Nature Time HD                        | DE
-wedo big stories HD                   | DE
-Wheels & Steel HD                     | DE
-DOKUSAT HD                            | DE
-SAT.1 Gold Schweiz HD                 | CH
-Abschnitt 40 HD                       | DE
-Alles Action by Rakuten TV HD         | DE
-DEFA TV HD                            | DE
-Don Matteo HD                         | IT
-Bronco HD                             | DE
-Grjngo HD                             | DE
-H2O & Friends HD                      | DE
-Herzfrequenz HD                       | DE
-Stand-Up Comedy HD                    | DE
-Comedy & Shows: Powered by Banijay HD | DE
-Commissario Montalbano HD             | IT
-Ladykracher HD                        | DE
-Stromberg HD                          | DE
-Talk? Now! HD                         | DE
-DF1 HD                                | DE
-Filmgold HD                           | DE
-OTVA HD                               | INT
-Franken Plus HD                       | DE
-Niederbayern TV HD                    | DE
-München TV HD                         | DE
-a.tv Sat HD                           | DE
-Lilo.TV HD                            | DE
-Canal B D HD                          | CH
-regioTVplus HD                        | DE
-Canal B F HD                          | CH
-Network-TV HD                         | INT
-Red Bull TV HD                        | AT
-Höhenrausch HD                        | DE
-Rally.TV FAST+ HD                     | INT
-Swiss Sport TV HD                     | CH
-Dyn Sport Mix HD                      | DE
-Scooore HD                            | INT
-Streamster TV HD                      | INT
-wedo sports HD                        | DE
-Al Arabiya                            | AE
-Asharq News HD                        | SA
-Al Aoula Inter HD                     | MA
-Al Masriyah HD                        | EG
-Oman TV HD                            | OM
-Dubai TV HD                           | AE
-Qatar TV                              | QA
-ntv HD                                | DE
-Schlager Deluxe                       | DE
-DLX Dance by Kontor HD                | DE
-DLX Rap HD                            | DE
-Telegold HD                           | DE
-Volksmusik.TV HD                      | DE
-Stimmungsgarten TV                    | DE
-Radiofreccia HD                       | IT
-Radio Italia TV HD                    | IT
-Radionorba TV HD                      | IT
-Fashion TV Secrets HD                 | INT
-Hope TV HD                            | INT
-Current Time TV HD                    | INT
-CGTN HD                               | CN
-CCTV 4                                | CN
-CT 24 HD                              | CZ
-Duna Europa                           | HU
-SLO-TV1 HD                            | SI
-TV SLO2 HD                            | SI
-RTS Svet HD                           | RS
-RTSH Sat HD                           | AL
-RTCG Sat HD                           | ME
-CANAL+ en clair HD                    | FR
-Wasabi HD                             | FR
-TFX HD                                | FR
-Homicide HD                           | FR
-Docstory HD                           | FR
-Enquetes de Choc HD                   | FR
-Drive TV HD                           | FR
-Y'a que la veritè qui compte HD       | FR
-LCP HD                                | FR
-DISCOVERY TURBO HD                    | FR
-27 Twentyseven HD                     | IT
-wedo Film al Femminile HD             | IT
-Food Network HD                       | IT
-Discovery Channel Italy HD            | IT
-Sportitalia Solocalcio HD             | IT
-TVE HD                                | ES
-24H HD                                | ES
-wedo Amor HD                          | ES
-1+1                                   | UA
-FREEDOM                               | UA
-Espreso TV HD                         | UA
-France 2                              | FR
-France 3                              | FR
-France 4                              | FR
-France 5                              | FR
-franceinfo                            | FR
-Culturebox                            | FR
-Slash                                 | FR
-Okoo                                  | FR
-Outre-mer La 1ère                     | FR
+BBC Two                            | GB
+CNN International                  | INT
+ITV 1                              | GB
+ITV 2                              | GB
+ITV 3                              | GB
+ITV 4                              | GB
+ITV Quiz                           | GB
+BBC Four                           | GB
+BBC News                           | GB
+BBC Parliament                     | GB
+Film 4                             | GB
+Channel 4                          | GB
+Channel 5                          | GB
+E4                                 | GB
+More 4                             | GB
+SRF 1                              | CH
+SRF zwei                           | CH
+ZDF                                | DE
+Das Erste                          | DE
+RTL CH                             | CH
+Pro7 Schweiz                       | CH
+SRF info                           | CH
+Sat.1 Schweiz                      | CH
+VOX                                | DE
+3+                                 | CH
+3+ Movies                          | CH
+RTLZWEI CH                         | CH
+ORF1                               | AT
+Kabel Eins                         | DE
+3+ Adrenalin                       | CH
+ORF2                               | AT
+Puls 8                             | CH
+Kabel Eins Doku                    | DE
+ARTE                               | DE
+DMAX                               | DE
+3+ Focus                           | CH
+NITRO CH                           | CH
+Telezüri                           | CH
+ProSieben MAXX Schweiz             | CH
+Swiss 1                            | CH
+3+ Emotion                         | CH
+3Sat                               | DE
+3+ Series                          | CH
+Deutsche Welle Spanish             | DE
+Sixx                               | DE
+Orf III                            | AT
+N24 Doku                           | DE
+3+ Crime                           | CH
+Star TV                            | CH
+TELE 5                             | DE
+ZDFneo                             | DE
+TLC                                | DE
+Super RTL Schweiz                  | CH
+Welt der Wunder                    | DE
+Comedy Central                     | DE
+VOXup                              | DE
+RTLup                              | DE
+BR Fernsehen Süd                   | DE
+Disney Channel                     | DE
+ZDFinfo                            | DE
+Phoenix                            | DE
+RTS 1                              | CH
+ONE                                | DE
+HR                                 | DE
+Rocket Beans TV                    | DE
+WDR Köln                           | DE
+NDR Niedersachsen                  | DE
+HGTV                               | DE
+rbb Berlin                         | DE
+RTS 2                              | CH
+TF1                                | FR
+MDR SACHSEN                        | DE
+SWR BW                             | DE
+3+ Family                          | CH
+Kika                               | DE
+Eurosport 1                        | DE
+M6 Suisse                          | CH
+France 2                           | FR
+SR Fernsehen                       | DE
+TOGGO plus                         | DE
+Sport1                             | DE
+ANIXE Serie                        | DE
+ARD-alpha                          | DE
+Anixe+                             | DE
+France 3                           | FR
+TMC                                | FR
+ARTE [fr]                          | FR
+W9 Suisse                          | CH
+France 5                           | FR
+tagesschau24                       | DE
+Radio Bremen TV                    | DE
+Auftanken.TV                       | DE
+RiC                                | DE
+France 4                           | FR
+6ter                               | FR
+TF1 Séries Films                   | FR
+CSTAR                              | FR
+CARAC 1                            | CH
+blue Zoom D                        | CH
+Gulli                              | FR
+TV5 Monde                          | FR
+TV5 Monde FBS                      | FR
+L'Équipe                           | FR
+WELT                               | DE
+RSI La2                            | CH
+RMC Story                          | FR
+Canale 5                           | IT
+TeleBärn                           | CH
+Super!                             | IT
+RMC Découverte                     | FR
+RMC Life                           | FR
+RSI La1                            | CH
+BFM TV                             | FR
+CNEWS                              | FR
+CARAC 2                            | CH
+blue Zoom F                        | CH
+HSE                                | DE
+Rai Uno                            | IT
+Tele M1                            | CH
+TeleBasel                          | CH
+CARAC 3                            | CH
+LCI                                | FR
+Tele Top                           | CH
+HSE Extra                          | DE
+HSE Trend                          | DE
+MTV Germany                        | DE
+Tele 1                             | CH
+Rai Due                            | IT
+Cartoonito                         | IT
+France Info                        | FR
+Euronews [fr]                      | INT
+Italia 1                           | IT
+Rai Tre                            | IT
+TeleBielingue                      | CH
+Cielo                              | IT
+Rete 4                             | IT
+K2                                 | IT
+More Than Sports TV                | DE
+Rai 4                              | IT
+Sky News                           | GB
+Rai Movie                          | IT
+Schaffhauser Fernsehen             | CH
+TV8                                | IT
+TVO                                | CH
+La5                                | IT
+Rai 5                              | IT
+DELUXE MUSIC                       | DE
+Tele D                             | CH
+1FLTV                              | LI
+La 7                               | IT
+TeleZ                              | CH
+Frisbee                            | IT
+TV8 Mont-Blanc                     | FR
+Euronews [ger]                     | INT
+LaTele                             | CH
+Italia 2                           | IT
+Canal9                             | CH
+CARAC 5                            | CH
+NOVE                               | IT
+Rai Premium                        | IT
+Iris                               | IT
+CNBC Europe                        | INT
+20 Mediaset                        | IT
+Leman Bleu                         | CH
+Liechtensteiner Landeskanal        | LI
+DMAX Italia                        | IT
+Rai Sport                          | IT
+Boing                              | IT
+4Seven                             | GB
+TeleTicino                         | CH
+R9 Österreich                      | AT
+Boing Plus                         | IT
+Real Time                          | IT
+Cine34                             | IT
+La7 Cinema                         | IT
+Al Jazeera English                 | QA
+Rai Storia                         | IT
+SuperTennis                        | IT
+Rai News 24                        | IT
+Focus                              | IT
+Bloomberg TV                       | INT
+Canal Alpha NE                     | CH
+Rai Gulp                           | IT
+Mediaset Extra                     | IT
+CARAC 4                            | CH
+TV Südostschweiz                   | CH
+TV Oberwallis                      | CH
+RTL 102.5                          | IT
+Kanal9                             | CH
+TV2000                             | IT
+Canal Alpha JU                     | CH
+TVM3                               | CH
+Sky TG24                           | IT
+Food Network                       | GB
+5STAR                              | GB
+U&Dave                             | GB
+Rai Scuola                         | IT
+Rai Yoyo                           | IT
+5SELECT                            | GB
+Giallo                             | IT
+Euronews [it]                      | INT
+Euronews [en]                      | INT
+PBS America                        | GB
+Canale Italia                      | IT
+TOPcrime                           | IT
+UniNettuno University TV           | IT
+France 24 [fr]                     | FR
+5USA                               | GB
+U&DRAMA                            | GB
+HGTV Italy                         | IT
+Alma TV                            | INT
+Sportitalia                        | IT
+Class TV Moda                      | IT
+TgCom24                            | IT
+Bloomberg Originals                | INT
+France 24 [en]                     | FR
+Now 90s                            | GB
+One Music Television               | DE
+U&YESTERDAY                        | GB
+Sky Mix                            | INT
+DMF                                | DE
+Melodie TV                         | AT
+CBeebies                           | GB
+Clubland TV                        | GB
+Zwei Music Television              | DE
+CBBC                               | GB
+Folx TV                            | AT
+BBC Arabic                         | GB
+Bibel TV                           | DE
+Challenge                          | GB
+Now 70s                            | GB
+Now 80s                            | GB
+BVN                                | NL
+wetter.tv                          | DE
+Fashion TV                         | INT
+Deutsche Welle [en]                | DE
+S4C                                | GB
+Radio Ticino Channel               | CH
+Deutsche Welle Arabic              | DE
+QS24                               | CH
+Helvetia One TV                    | CH
+NHK WORLD-JAPAN                    | JP
+K-TV                               | AT
+KBS World                          | KR
+KTO                                | FR
+GOD TV                             | INT
+Arirang TV                         | KR
+SONLife                            | INT
+BBC One London                     | GB
+BBC Three                          | GB
+BBC Red Button 1                   | GB
+BBC Scotland                       | GB
+BBC Alba                           | GB
+DMAX UK                            | GB
+Quest                              | GB
+Quest Red                          | GB
+TRUE CRIME                         | GB
+Great! Mystery                     | GB
+Great! action                      | GB
+Great! TV                          | GB
+E4 Extra                           | GB
+5ACTION                            | GB
+Bauer, ledig, sucht...             | CH
+Zeno True Crime                    | DE
+Servus TV Österreich               | AT
+Steiermark TV                      | AT
+wedo movies                        | DE
+wedo true stories                  | DE
+Naruto                             | DE
+Akiba Anime                        | DE
+Amasia                             | DE
+Netzkino                           | DE
+Pastewka                           | DE
+Rauchende Colts                    | DE
+Himmlisches Kino                   | DE
+Fabella                            | DE
+ARD Plus Lindenstraße              | DE
+Telenovela ZDF                     | DE
+Auf Achse                          | DE
+Beverly Hills 90210                | DE
+Big Brother Classics               | DE
+Familie Dr. Kleist                 | DE
+Tempora TV                         | DE
+Top Filme                          | DE
+Andromeda                          | DE
+Top Sci-Fi                         | DE
+Serien+                            | DE
+Sooner                             | DE
+Spooks                             | DE
+Moviedome                          | DE
+Moviedome Family                   | DE
+Top Serien                         | DE
+KultKrimi                          | DE
+CRIME TIME                         | DE
+Top True Crime                     | DE
+ARD Plus Zoo                       | DE
+Curiosity Now                      | DE
+Spiegel TV                         | DE
+Spiegel TV action+crime            | DE
+Spiegel TV Konflikte               | DE
+Terra Mater Wild                   | AT
+time2Rlx                           | DE
+One TERRA                          | DE
+Royalworld                         | DE
+XPLORE                             | DE
+ZDF kocht!                         | DE
+ZDF zu Hause                       | DE
+Just.fishing                       | DE
+JUST COOKING                       | DE
+FarmLandTV                         | DE
+Landlust TV                        | DE
+Lucky Dog                          | DE
+Marco Polo TV                      | DE
+Nature Moments                     | DE
+Nature Time                        | DE
+wedo big stories                   | DE
+Wheels & Steel                     | DE
+DOKUSAT                            | DE
+SAT.1 Gold Schweiz                 | CH
+Abschnitt 40                       | DE
+Alles Action by Rakuten TV         | DE
+DEFA TV                            | DE
+Don Matteo                         | IT
+Bronco                             | DE
+Grjngo                             | DE
+H2O & Friends                      | DE
+Herzfrequenz                       | DE
+Stand-Up Comedy                    | DE
+Comedy & Shows: Powered by Banijay | DE
+Commissario Montalbano             | IT
+Ladykracher                        | DE
+Stromberg                          | DE
+Talk? Now!                         | DE
+DF1                                | DE
+Filmgold                           | DE
+OTVA                               | INT
+Franken Plus                       | DE
+Niederbayern TV                    | DE
+München TV                         | DE
+a.tv Sat                           | DE
+Lilo.TV                            | DE
+Canal B D                          | CH
+regioTVplus                        | DE
+Canal B F                          | CH
+Network-TV                         | INT
+Red Bull TV                        | AT
+Höhenrausch                        | DE
+Rally.TV FAST+                     | INT
+Swiss Sport TV                     | CH
+Dyn Sport Mix                      | DE
+Scooore                            | INT
+Streamster TV                      | INT
+wedo sports                        | DE
+Al Arabiya                         | AE
+Asharq News                        | SA
+Al Aoula Inter                     | MA
+Al Masriyah                        | EG
+Oman TV                            | OM
+Dubai TV                           | AE
+Qatar TV                           | QA
+ntv                                | DE
+Schlager Deluxe                    | DE
+DLX Dance by Kontor                | DE
+DLX Rap                            | DE
+Telegold                           | DE
+Volksmusik.TV                      | DE
+Stimmungsgarten TV                 | DE
+Radiofreccia                       | IT
+Radio Italia TV                    | IT
+Radionorba TV                      | IT
+Fashion TV Secrets                 | INT
+Hope TV                            | INT
+Current Time TV                    | INT
+CGTN                               | CN
+CCTV 4                             | CN
+CT 24                              | CZ
+Duna Europa                        | HU
+SLO-TV1                            | SI
+TV SLO2                            | SI
+RTS Svet                           | RS
+RTSH Sat                           | AL
+RTCG Sat                           | ME
+CANAL+ en clair                    | FR
+Wasabi                             | FR
+TFX                                | FR
+Homicide                           | FR
+Docstory                           | FR
+Enquetes de Choc                   | FR
+Drive TV                           | FR
+Y'a que la veritè qui compte       | FR
+LCP                                | FR
+DISCOVERY TURBO                    | FR
+27 Twentyseven                     | IT
+wedo Film al Femminile             | IT
+Discovery Channel Italy            | IT
+Sportitalia Solocalcio             | IT
+TVE                                | ES
+24H                                | ES
+wedo Amor                          | ES
+1+1                                | UA
+FREEDOM                            | UA
+Espreso TV                         | UA
+franceinfo                         | FR
+Culturebox                         | FR
+Slash                              | FR
+Okoo                               | FR
+Outre-mer La 1ère                  | FR
