@@ -1,0 +1,23 @@
+# DNS Switch - TV channels: BBC iPlayer
+# updated: 2026-10-09
+# source: https://en.wikipedia.org/wiki/BBC_Four https://en.wikipedia.org/wiki/BBC_Three https://en.wikipedia.org/wiki/CBBC https://en.wikipedia.org/wiki/CBeebies https://en.wikipedia.org/wiki/BBC_Scotland_(TV_channel) https://en.wikipedia.org/wiki/BBC_Alba https://en.wikipedia.org/wiki/BBC_Parliament https://en.wikipedia.org/wiki/S4C https://www.freeview.co.uk/get-freeview-play/channels/bbc-iplayer
+#
+# Official iPlayer pages could not be fetched; each channel verified via its Wikipedia infobox ("BBC iPlayer: Watch live").
+# BBC One / BBC Two regional & nation variants are chosen via iPlayer's location setting, so one line each.
+# S4C is streamed live on iPlayer (UK only, adverts omitted).
+# Watch: BBC Three and BBC Scotland reported as possible closures (Sept 2026, unconfirmed).
+#
+# Kept by hand: one channel per line. Lines starting with # are ignored.
+# Change the "updated" date above when you edit.
+#
+BBC One
+BBC Two
+BBC Three
+BBC Four
+BBC News
+BBC Parliament
+BBC Scotland
+BBC ALBA
+CBBC
+CBeebies
+S4C

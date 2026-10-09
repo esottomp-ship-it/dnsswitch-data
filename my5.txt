@@ -1,0 +1,15 @@
+# DNS Switch - TV channels: Channel 5 (5, formerly My5)
+# updated: 2026-10-09
+# source: https://rxtvinfo.com/2025/channel-5-launches-15-new-free-streaming-channels https://en.wikipedia.org/wiki/5Select https://en.wikipedia.org/wiki/5Action https://en.wikipedia.org/wiki/5Star
+#
+# Channel 5 and My5 were relaunched under the single name "5" in 2025.
+# The 5 app's streaming-only channels (5 Cops, 5 Crime, MTV Reality, Milkshake! ...) are left out on purpose.
+#
+# Kept by hand: one channel per line. Lines starting with # are ignored.
+# Change the "updated" date above when you edit.
+#
+5
+5USA
+5STAR
+5ACTION
+5SELECT

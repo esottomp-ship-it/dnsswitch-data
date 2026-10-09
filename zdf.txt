@@ -1,0 +1,17 @@
+# DNS Switch - TV channels: ZDF
+# updated: 2026-10-09
+# source: https://www.zdfheute.de/zdfneo-live-beitrag-102.html https://www.giga.de/unternehmen/zdf/specials/zdf-hd-live-stream/ https://www.zdf.de/live-tv
+#
+# ZDFneo and ZDFinfo become the joint ARD/ZDF channels "neo" and "info" from 2027 (media reform).
+# ZDF's themed "ZDF Channels" loops and event streams are left out.
+#
+# Kept by hand: one channel per line. Lines starting with # are ignored.
+# Change the "updated" date above when you edit.
+#
+ZDF
+ZDFneo
+ZDFinfo
+3sat
+phoenix
+arte
+KiKA

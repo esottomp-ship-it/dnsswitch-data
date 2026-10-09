@@ -1,0 +1,40 @@
+# DNS Switch - TV channels: Joyn
+# updated: 2026-10-09
+# source: https://www.joyn.de/live-tv https://www.giga.de/artikel/joyn-sender-liste-alle-programme-im-ueberblick/
+#
+# Main free channels only. Left out: Joyn PLUS+ pay channels (ProSieben FUN, SAT.1 emotions, Kabel Eins CLASSICS,
+# wetter.com TV), FAST/themed streams (Naruto, DF1, RiC, NFL Network, CNBC, Bloomberg, Red Bull TV ...),
+# the regional ARD third channels and MTV (listed as "MTV live", unclear).
+#
+# Kept by hand: one channel per line. Lines starting with # are ignored.
+# Change the "updated" date above when you edit.
+#
+ProSieben
+SAT.1
+Kabel Eins
+sixx
+ProSieben MAXX
+SAT.1 GOLD
+Kabel Eins Doku
+Das Erste
+ZDF
+ZDFneo
+ZDFinfo
+3sat
+Arte
+Phoenix
+ONE
+tagesschau24
+ARD-alpha
+KiKA
+DMAX
+TLC
+HGTV
+Tele 5
+Comedy Central
+Nickelodeon
+WELT
+N24 Doku
+Sport1
+Eurosport 1
+Deluxe Music

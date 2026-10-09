@@ -1,0 +1,14 @@
+# DNS Switch - TV channels: 9Now
+# updated: 2026-10-09
+# source: https://apps.apple.com/au/app/id542088539 https://en.wikipedia.org/wiki/9Now
+#
+# 9Now's FAST/24-7 themed channels are left out.
+#
+# Kept by hand: one channel per line. Lines starting with # are ignored.
+# Change the "updated" date above when you edit.
+#
+9
+9Gem
+9Go!
+9Life
+9Rush

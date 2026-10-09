@@ -1,0 +1,16 @@
+# DNS Switch - TV channels: RTVE Play
+# updated: 2026-10-09
+# source: https://www.apkmirror.com/?p=13807276 https://www.xatakandroid.com/aplicaciones-android/todo-lo-que-ofrece-rtve-play-la-app-de-la-television-publica-espanola-canales-contenidos-resolucion-y-mas/amp
+#
+# La 1 also has regional (comunidad autonoma) versions; one line.
+# Left out: Star HD and TVE Internacional (not confirmed on RTVE Play), the part-time digital channel EN PLAY
+# and the themed FAST streams (Somos Cine, RTVE Crimen, RTVE Época ...).
+#
+# Kept by hand: one channel per line. Lines starting with # are ignored.
+# Change the "updated" date above when you edit.
+#
+La 1
+La 2
+24h
+Clan
+Teledeporte

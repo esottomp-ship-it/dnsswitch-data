@@ -1,0 +1,17 @@
+# DNS Switch - TV channels: TF1+
+# updated: 2026-10-09
+# source: https://apps.apple.com/FR/app/id407248490 https://www.clubic.com/actualite-544841-le-bon-coup-de-tf1-qui-accueille-la-chaine-l-equipe-sur-sa-plateforme.html https://alloforfait.fr/tv/mytf1
+#
+# The 5 group channels come from the official App Store listing.
+# Other partner channels reported on TF1+ (ARTE, LCP-Public Senat, NOVO19, Red Bull TV, Le Figaro TV)
+# are only confirmed by a third-party site, so they are not listed. The 50+ FAST streams are left out.
+#
+# Kept by hand: one channel per line. Lines starting with # are ignored.
+# Change the "updated" date above when you edit.
+#
+TF1
+TMC
+TFX
+TF1 Séries Films
+LCI
+L'Équipe

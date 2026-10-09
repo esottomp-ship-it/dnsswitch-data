@@ -1,5 +1,5 @@
 # DNS Switch - TV channels: country of each channel (used to group channels by country)
-# updated: 2026-10-04
+# updated: 2026-10-09
 #
 # HOW TO EDIT
 # - One channel per line:   channel name (as in the channel list, without the quality) | country code
@@ -415,3 +415,63 @@ Culturebox                         | FR
 Slash                              | FR
 Okoo                               | FR
 Outre-mer La 1ère                  | FR
+BBC One                            | GB
+ITV1                               | GB
+ITV2                               | GB
+ITV3                               | GB
+ITV4                               | GB
+5                                  | GB
+M6                                 | FR
+W9                                 | FR
+Paris Première                     | FR
+Téva                               | FR
+BR                                 | DE
+MDR                                | DE
+NDR                                | DE
+Radio Bremen                       | DE
+rbb                                | DE
+SR                                 | DE
+SWR                                | DE
+WDR                                | DE
+ARD alpha                          | DE
+Deutsche Welle                     | DE
+ProSieben                          | DE
+SAT.1                              | DE
+ProSieben MAXX                     | DE
+SAT.1 GOLD                         | DE
+Nickelodeon                        | DE
+La 1                               | ES
+La 2                               | ES
+Clan                               | ES
+Teledeporte                        | ES
+Antena 3                           | ES
+laSexta                            | ES
+Neox                               | ES
+Nova                               | ES
+Mega                               | ES
+Atreseries                         | ES
+Rai 1                              | IT
+Rai 2                              | IT
+Rai 3                              | IT
+Top Crime                          | IT
+ORF 1                              | AT
+ORF 2                              | AT
+ORF SPORT +                        | AT
+ServusTV                           | AT
+ABC TV                             | AU
+ABC Kids                           | AU
+ABC Family                         | AU
+ABC Entertains                     | AU
+ABC News                           | AU
+SBS                                | AU
+SBS2                               | AU
+SBS World Movies                   | AU
+SBS Food                           | AU
+NITV                               | AU
+9                                  | AU
+9Gem                               | AU
+9Go!                               | AU
+9Life                              | AU
+9Rush                              | AU
+CBC                                | CA
+CBC News Network                   | CA

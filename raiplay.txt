@@ -1,0 +1,22 @@
+# DNS Switch - TV channels: RaiPlay
+# updated: 2026-10-09
+# source: https://apps.apple.com/app/id501323740
+#
+# The visual radio Rai Radio 2 and RaiPlay-only event channels are left out.
+#
+# Kept by hand: one channel per line. Lines starting with # are ignored.
+# Change the "updated" date above when you edit.
+#
+Rai 1
+Rai 2
+Rai 3
+Rai 4
+Rai 5
+Rai Movie
+Rai Premium
+Rai Gulp
+Rai Yoyo
+Rai Storia
+Rai News 24
+Rai Sport
+Rai Scuola

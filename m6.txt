@@ -1,0 +1,15 @@
+# DNS Switch - TV channels: M6+ (formerly 6play)
+# updated: 2026-10-09
+# source: https://en.wikipedia.org/wiki/M6%2B https://www.tv-direct.fr/offre/m6-plus/
+#
+# M6, W9, 6ter and Gulli are free; Paris Première and Téva need a paid add-on (1.99 EUR/month each).
+#
+# Kept by hand: one channel per line. Lines starting with # are ignored.
+# Change the "updated" date above when you edit.
+#
+M6
+W9
+6ter
+Gulli
+Paris Première
+Téva

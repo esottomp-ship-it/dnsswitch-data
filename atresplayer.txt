@@ -1,0 +1,15 @@
+# DNS Switch - TV channels: Atresplayer
+# updated: 2026-10-09
+# source: https://apps.apple.com/app/id694169089
+#
+# Atresplayer's FAST channels (Flooxer etc.) are left out.
+#
+# Kept by hand: one channel per line. Lines starting with # are ignored.
+# Change the "updated" date above when you edit.
+#
+Antena 3
+laSexta
+Neox
+Nova
+Mega
+Atreseries

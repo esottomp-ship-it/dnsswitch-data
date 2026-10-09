@@ -1,0 +1,11 @@
+# DNS Switch - TV channels: Play RTS
+# updated: 2026-10-09
+# source: https://www.clubic.com/dossier-611809-regarder-rts-depuis-l-etranger-direct-replay-restrictions-comment-faire.html https://en.wikipedia.org/wiki/RTS_1_(Swiss_TV_channel)
+#
+# RTS Info and Couleur 3 are left out (not regular linear TV channels).
+#
+# Kept by hand: one channel per line. Lines starting with # are ignored.
+# Change the "updated" date above when you edit.
+#
+RTS 1
+RTS 2

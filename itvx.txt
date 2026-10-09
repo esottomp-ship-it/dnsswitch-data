@@ -1,0 +1,15 @@
+# DNS Switch - TV channels: ITVX
+# updated: 2026-10-09
+# source: https://help.itv.com/support/solutions/articles/204000073856-how-do-i-watch-live-tv-on-itvx- https://en.wikipedia.org/wiki/ITV_Quiz https://rxtvinfo.com/2025/which-channels-are-available-on-itvx
+#
+# ITVBe closed and was replaced by ITV Quiz on 9 June 2025 (ITV help page still says ITVBe).
+# ITVX's streaming-only/FAST channels (ITVX Kids, Love Island, The Chase, etc.) are left out on purpose.
+#
+# Kept by hand: one channel per line. Lines starting with # are ignored.
+# Change the "updated" date above when you edit.
+#
+ITV1
+ITV2
+ITV3
+ITV4
+ITV Quiz

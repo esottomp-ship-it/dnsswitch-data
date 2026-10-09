@@ -1,0 +1,29 @@
+# DNS Switch - TV channels: ARD Mediathek
+# updated: 2026-10-09
+# source: https://apps.apple.com/app/id981496660 https://winfuture.de/news,157273.html
+#
+# Channel list from the official ARD Mediathek App Store description ("Alle Live-Sender der ARD").
+# Regional variants (e.g. NDR Hamburg, SWR BW/RP, MDR Sachsen) are one line per broadcaster.
+# ONE, tagesschau24 and ARD alpha are due to close on 31 Dec 2026 (media reform); remove them then.
+#
+# Kept by hand: one channel per line. Lines starting with # are ignored.
+# Change the "updated" date above when you edit.
+#
+Das Erste
+BR
+HR
+MDR
+NDR
+Radio Bremen
+rbb
+SR
+SWR
+WDR
+tagesschau24
+ONE
+ARD alpha
+phoenix
+KiKA
+3sat
+ARTE
+Deutsche Welle

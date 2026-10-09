@@ -1,0 +1,14 @@
+# DNS Switch - TV channels: ORF ON (formerly ORF TVthek)
+# updated: 2026-10-09
+# source: https://der.orf.at/unternehmen/austrian-broadcasting-corporation/index.html https://www.vienna.at/aus-fur-tvthek-streamingplattform-orf-on-startet/8739871 https://cybernews.com/de/online-schauen/orf-im-ausland-schauen/
+#
+# ORF 2 regional (Bundesland) versions are one line.
+# ORF KIDS (24/7 digital children's channel since 1 Jan 2024) is left out: not confirmed as a live stream on ORF ON.
+#
+# Kept by hand: one channel per line. Lines starting with # are ignored.
+# Change the "updated" date above when you edit.
+#
+ORF 1
+ORF 2
+ORF III
+ORF SPORT +

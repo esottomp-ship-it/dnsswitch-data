@@ -1,0 +1,16 @@
+# DNS Switch - TV channels: SBS On Demand
+# updated: 2026-10-09
+# source: https://help.sbs.com.au/hc/en-au/articles/9349728038799-What-are-the-different-ways-I-can-access-and-watch-SBS-content https://theviewersguide.com/tvau/2026-07-15-sbs-viceland-rebrands-as-sbs2 https://www.sbs.com.au/news/article/sbs-worldwatch-moves-to-sbs-on-demand/34atveezy
+#
+# SBS VICELAND was renamed SBS2 on 21 Aug 2026.
+# SBS WorldWatch stopped broadcasting on 18 Sep 2026 (now on-demand bulletins only), so it is not listed.
+# SBS On Demand streams the New South Wales feeds.
+#
+# Kept by hand: one channel per line. Lines starting with # are ignored.
+# Change the "updated" date above when you edit.
+#
+SBS
+SBS2
+SBS World Movies
+SBS Food
+NITV

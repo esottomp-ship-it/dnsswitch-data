@@ -1,0 +1,10 @@
+# DNS Switch - TV channels: Play SRF
+# updated: 2026-10-09
+# source: https://apps.apple.com/us/app/-/id638194352
+#
+# Kept by hand: one channel per line. Lines starting with # are ignored.
+# Change the "updated" date above when you edit.
+#
+SRF 1
+SRF zwei
+SRF info

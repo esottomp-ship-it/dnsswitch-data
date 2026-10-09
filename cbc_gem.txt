@@ -1,0 +1,12 @@
+# DNS Switch - TV channels: CBC Gem
+# updated: 2026-10-09
+# source: https://cbchelp.cbc.ca/hc/en-ca/articles/115003527354-What-can-I-live-stream-on-CBC-Gem-
+#
+# CBC = the 14 regional CBC TV live streams (free with a CBC Gem account; Ottawa without signing in).
+# CBC News Network live needs a CBC Gem Premium subscription.
+#
+# Kept by hand: one channel per line. Lines starting with # are ignored.
+# Change the "updated" date above when you edit.
+#
+CBC
+CBC News Network

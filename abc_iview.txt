@@ -1,0 +1,15 @@
+# DNS Switch - TV channels: ABC iview
+# updated: 2026-10-09
+# source: https://en.wikipedia.org/wiki/ABC_Family_(Australian_TV_channel) https://en.wikipedia.org/wiki/ABC_Entertains
+#
+# ABC Kids (daytime) and ABC Family (7:30pm-4am) share one channel/stream since 3 June 2024.
+# ABC Entertains replaced ABC ME on 3 June 2024.
+#
+# Kept by hand: one channel per line. Lines starting with # are ignored.
+# Change the "updated" date above when you edit.
+#
+ABC TV
+ABC Kids
+ABC Family
+ABC Entertains
+ABC News

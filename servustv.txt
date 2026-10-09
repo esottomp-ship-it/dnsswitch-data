@@ -1,0 +1,11 @@
+# DNS Switch - TV channels: ServusTV On
+# updated: 2026-10-09
+# source: https://apps.apple.com/at/app/servustv-on/id517249438 https://www.netzwelt.de/tv-sender/servus-tv.html
+#
+# ServusTV Deutschland stopped broadcasting on 31 Dec 2023; only the Austrian ServusTV is streamed live.
+# Some live content is geo-blocked outside Austria.
+#
+# Kept by hand: one channel per line. Lines starting with # are ignored.
+# Change the "updated" date above when you edit.
+#
+ServusTV

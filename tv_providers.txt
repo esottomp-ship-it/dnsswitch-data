@@ -1,5 +1,5 @@
 # DNS Switch - TV channels: providers (shown as sub-categories, in this order)
-# updated: 2026-10-03
+# updated: 2026-10-09
 #
 # HOW TO EDIT
 # - One provider per line:   name | country code | package | channel list file
@@ -12,3 +12,24 @@
 #
 Zattoo {country} | CH | Ultimate | zattoo_ch.txt
 France Télévisions | FR |  | francetv.txt
+BBC iPlayer | GB |  | bbc_iplayer.txt
+ITVX | GB |  | itvx.txt
+Channel 5 | GB |  | my5.txt
+TF1+ | FR |  | tf1.txt
+M6+ | FR |  | m6.txt
+ARTE | FR |  | arte.txt
+ARD Mediathek | DE |  | ard.txt
+ZDF | DE |  | zdf.txt
+Joyn | DE |  | joyn.txt
+RTVE Play | ES |  | rtve.txt
+Atresplayer | ES |  | atresplayer.txt
+RaiPlay | IT |  | raiplay.txt
+Mediaset Infinity | IT |  | mediaset.txt
+Play SRF | CH |  | srf.txt
+Play RTS | CH |  | rts.txt
+ORF ON | AT |  | orf.txt
+ServusTV On | AT |  | servustv.txt
+ABC iview | AU |  | abc_iview.txt
+SBS On Demand | AU |  | sbs.txt
+9Now | AU |  | 9now.txt
+CBC Gem | CA |  | cbc_gem.txt

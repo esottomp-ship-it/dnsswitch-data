@@ -1,0 +1,24 @@
+# DNS Switch - TV channels: Mediaset Infinity
+# updated: 2026-10-09
+# source: https://apps.apple.com/us/app/-/id412625083
+#
+# Visual radio channels (R101 TV, Radio 105 TV, Virgin Radio TV, Radio Monte Carlo) are left out.
+#
+# Kept by hand: one channel per line. Lines starting with # are ignored.
+# Change the "updated" date above when you edit.
+#
+Canale 5
+Italia 1
+Rete 4
+20 Mediaset
+Iris
+27 Twentyseven
+La5
+Cine34
+Focus
+Top Crime
+Italia 2
+Mediaset Extra
+TGCOM24
+Boing
+Cartoonito
