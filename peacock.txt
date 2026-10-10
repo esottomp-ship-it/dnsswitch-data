@@ -1,0 +1,51 @@
+# DNS Switch - TV channels: Peacock
+# updated: 2026-10-10
+# source: https://www.peacocktv.com/blog/ultimate-guide-to-channels-on-peacock https://www.cabletv.com/peacock/live-tv https://www.peacocktv.com/channels/nbc-local
+#
+# 24/7 channels named both in Peacock's own channel guide (May 2025) and cabletv.com (Apr 2026); NBC = local NBC station (Premium Plus).
+# Left out: the city NBC News feeds, RSN add-ons, and channels found in only one of the two lists.
+#
+# Kept by hand: one channel per line. Lines starting with # are ignored.
+# Change the "updated" date above when you edit.
+#
+NBC
+NBC News NOW
+TODAY All Day
+Sky News
+NFL Channel
+Premier League TV
+Black-Led Comedy
+The Office
+Sitcom Staples
+Modern Family
+That '70s Show
+Comedy TV
+Women-Led Favorites
+SNL Vault
+Drama TV
+Comedy Movies
+Hit Blockbuster Movies
+Family Movies
+Dateline 24/7
+REELZ
+Law & Order
+Law & Order SVU
+One Chicago
+On Patrol: Live
+Snapped
+Race Against Crime
+Family Crimes
+Law & Crime
+Peacock Latino
+Telemundo Al Día
+Vanderpump Rules
+Chrisley Knows Best
+Peacock Reality
+The Real Housewives
+Below Deck
+This Old House
+Nosey
+Confess by Nosey
+Top Gear
+Circle Country
+NBC LX Home

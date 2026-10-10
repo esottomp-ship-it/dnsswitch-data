@@ -1,0 +1,12 @@
+# DNS Switch - TV channels: PBS
+# updated: 2026-10-10
+# source: https://apps.apple.com/us/app/-/id398349296 https://help.pbs.org/support/solutions/articles/12000095437-how-do-i-livestream-on-the-apple-tv-pbs-app- https://apps.apple.com/app/id435138734 https://www.pbs.org/about/about-pbs/blogs/news/pbs-and-stations-launch-247-pbs-kids-channel-expanding-access-to-the-1-childrens-educational-media-brand-on-tv-and-digital-platforms
+#
+# PBS: the local PBS station livestream in the PBS app (official App Store listing and PBS help).
+# PBS KIDS: the 24/7 PBS KIDS channel livestream, in the companion PBS KIDS Video app (App Store listing, PBS press release).
+#
+# Kept by hand: one channel per line. Lines starting with # are ignored.
+# Change the "updated" date above when you edit.
+#
+PBS
+PBS KIDS

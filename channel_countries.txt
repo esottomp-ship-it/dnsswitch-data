@@ -1,5 +1,5 @@
 # DNS Switch - TV channels: country of each channel (used to group channels by country)
-# updated: 2026-10-09
+# updated: 2026-10-10
 #
 # HOW TO EDIT
 # - One channel per line:   channel name (as in the channel list, without the quality) | country code
@@ -475,3 +475,1075 @@ NITV                               | AU
 9Rush                              | AU
 CBC                                | CA
 CBC News Network                   | CA
+Pluto TV Spotlight                 | US
+Pluto TV Franchise Favorites       | US
+Pluto TV Icons                     | US
+Pluto TV Action                    | US
+Pluto TV Reaction                  | US
+Pluto TV Fantastic                 | US
+Pluto TV Comedy                    | US
+Pluto TV Drama                     | US
+Pluto TV Romance                   | US
+BET Cinema                         | US
+BET Comedy Movies                  | US
+BET Visionaries                    | US
+Pluto TV Crime Movies              | US
+Pluto TV Thrillers                 | US
+Pluto TV Horror                    | US
+Pluto TV Terror                    | US
+00s Replay                         | US
+90s Throwback                      | US
+80s Rewind                         | US
+70s Cinema                         | US
+Moviesphere                        | US
+Pluto TV Westerns                  | US
+Classic Movies Channel             | US
+Pluto TV Staff Picks               | US
+Flicks of Fury                     | US
+Pluto TV Cult Films                | US
+Sitcom Legends                     | US
+Cheers + Frasier                   | US
+TV Land Sitcoms                    | US
+More TV Sitcoms                    | US
+Hit Sitcoms                        | US
+BET Throwbacks                     | US
+BET x Tyler Perry Comedy           | US
+Black Family Sitcoms               | US
+Funny AF                           | US
+Sketchy AF                         | US
+Comedy Central Pluto TV            | US
+Ridiculousness                     | US
+Tosh.0                             | US
+Wild 'N Out                        | US
+America's Funniest Home Videos     | US
+Mystery Science Theater 3000       | US
+RiffTrax                           | US
+Always Funny Videos                | US
+FailArmy                           | US
+Classic TV Comedy                  | US
+Classic TV: Families               | US
+BET Classics                       | US
+Hogan's Heroes                     | US
+I Love Lucy                        | US
+The Andy Griffith Show             | US
+The Addams Family                  | US
+Beverly Hillbillies                | US
+Happy Days                         | US
+Three's Company                    | US
+The Love Boat                      | US
+Dynasty                            | US
+Little House on the Prairie        | US
+Classic TV Drama                   | US
+Classic TV Crime Drama             | US
+Universal Crime                    | US
+Matlock                            | US
+Murder She Wrote                   | US
+Perry Mason                        | US
+Mission Impossible                 | US
+The Bob Ross Channel               | US
+Western TV                         | US
+Gunsmoke                           | US
+Bonanza                            | US
+The Wild Wild West                 | US
+Rawhide                            | US
+The Rifleman                       | US
+The Lone Ranger                    | US
+Classic Movie Westerns             | US
+Star Trek                          | US
+Star Trek: The Next Generation     | US
+Star Trek: Deep Space Nine         | US
+Star Trek: Voyager                 | US
+The X-Files                        | US
+Pluto TV Adventure                 | US
+Battlestar Galactica               | US
+The Twilight Zone                  | US
+Stargate                           | US
+Doctor Who Classic                 | US
+Pluto TV Sci-Fi                    | US
+Universal Monsters                 | US
+CSI                                | US
+CSI: Miami                         | US
+CSI: NY                            | US
+Criminal Minds                     | US
+Law & Order                        | US
+Blue Bloods                        | US
+S.W.A.T.                           | US
+Nash Bridges                       | US
+Pluto TV Crime Drama               | US
+Pluto TV Hometown Drama            | US
+BET x Tyler Perry Drama            | US
+Ebony TV Drama                     | US
+TV Land Drama                      | US
+More TV Drama                      | US
+Universal Action                   | US
+The Walking Dead Universe          | US
+Stories by AMC                     | US
+Midsomer Murders                   | US
+BritBox Mysteries                  | US
+Feel Good Drama                    | US
+Supernatural Drama                 | US
+Heartland                          | US
+Degrassi                           | US
+Pluto TV True Crime                | US
+More True Crime                    | US
+The First 48                       | US
+Live PD Presents                   | US
+American Crimes                    | US
+Dateline 24/7                      | US
+48 Hours                           | US
+Living With Evil                   | US
+Unsolved Mysteries                 | US
+The New Detectives                 | US
+Cold Case Files by A&E             | US
+Forensic Files                     | US
+Oxygen True Crime Archives         | US
+Court TV                           | US
+A&E Crime 360                      | US
+COPS                               | US
+Car Chase                          | US
+Dog the Bounty Hunter              | US
+Ancient Aliens                     | US
+Spike Pluto TV                     | US
+Pluto TV Reality                   | US
+Bar Rescue                         | US
+Pickers & Pawn                     | US
+Storage Wars by A&E                | US
+Xtreme Outdoor by HISTORY          | US
+Spike Outdoors                     | US
+Tough Jobs                         | US
+Wicked Tuna                        | US
+Pluto TV Backcountry               | US
+Pluto TV Lives                     | US
+UnXplained Zone                    | US
+Pluto TV Paranormal                | US
+Ghost Hunters Channel              | US
+Pluto TV Cars                      | US
+Top Gear                           | US
+Cheaters                           | US
+Dating Disasters                   | US
+World of Love Island               | US
+Matched Married Meet by Lifetime   | US
+VH1 Queens of Reality              | US
+Black Ink Crew                     | US
+Love & Hip Hop                     | US
+Jersey Shore                       | US
+Teen Mom                           | US
+Million Dollar Listing Vault       | US
+Bravo Vault                        | US
+Real Housewives Vault              | US
+Bad Girls Club                     | US
+Warner Bros. TV Say Yes to the Dress| US
+All Reality WE tv                  | US
+Pluto TV Competition               | US
+America's Next Top Model           | US
+Project Runway                     | US
+DCC: Making the Team               | US
+Ink Master                         | US
+Gordon Ramsay's Hell's Kitchen     | US
+Big Brother                        | US
+Survivor                           | US
+The Amazing Race                   | US
+The Challenge                      | US
+Paramount+ Picks                   | US
+BET Pluto TV                       | US
+50 Cent Action                     | US
+El Rey Rebel                       | US
+ION                                | US
+Lifetime Movie Favorites           | US
+Hallmark Movies & More             | US
+Bounce XL                          | US
+ALLBLK Gems                        | US
+MTV Pluto TV                       | US
+Logo Pluto TV                      | US
+Pluto TV Pride                     | US
+Revry                              | US
+ET Live                            | US
+Live Music                         | US
+The Price Is Right                 | US
+The Price Is Right: The Barker Era | US
+Let's Make A Deal                  | US
+Family Feud                        | US
+Family Feud Classic                | US
+GrowthDay Network                  | US
+Supermarket Sweep                  | US
+Deal or No Deal                    | US
+BUZZR                              | US
+Pluto TV Game Shows                | US
+Game Show Central                  | US
+Best of Dr. Phil                   | US
+Tony Robbins Network               | US
+Beyond the Gates                   | US
+Nosey                              | US
+Confess by Nosey                   | US
+Judge Nosey                        | US
+The Judge Judy Channel             | US
+Hot Bench                          | US
+QVC                                | US
+QVC2                               | US
+HSN                                | US
+ShopLC                             | US
+CBS News 24/7                      | US
+NBC News NOW                       | US
+ABC News Live                      | US
+CNN Headlines                      | US
+LiveNOW from FOX                   | US
+Newsmax2                           | US
+TODAY All Day                      | US
+Scripps News                       | US
+FOX Weather                        | US
+WeatherNation                      | US
+Bloomberg                          | US
+Blaze Live                         | US
+America's Voice                    | US
+OAN Plus                           | US
+Salem News Channel                 | US
+The First                          | US
+CBS Sports HQ                      | US
+FOX Sports                         | US
+NBC Sports NOW                     | US
+NFL Channel                        | US
+The NBA Channel                    | US
+MLB                                | US
+PGA Tour                           | US
+GolfPass                           | US
+TennisChannel 2                    | US
+Golazo Network                     | US
+UEFA Champions League              | US
+PBR RidePass                       | US
+UFC                                | US
+Top Rank Classics                  | US
+DAZN Ringside                      | US
+Bellator MMA                       | US
+ONE Championship TV                | US
+PFL MMA                            | US
+TNA Wrestling                      | US
+AWSN                               | US
+Women's Sports Network             | US
+Swerve Women's Sports              | US
+World Poker Tour                   | US
+PokerGO                            | US
+Triton Poker                       | US
+F1 Channel                         | US
+Monster Jam                        | US
+PowerNation                        | US
+FanDuel TV Extra                   | US
+Pluto TV Military                  | US
+Pluto TV History                   | US
+60 Minutes                         | US
+CNN Originals                      | US
+Modern Marvels by HISTORY          | US
+Pluto TV Science                   | US
+MythBusters                        | US
+Smithsonian Channel Selects        | US
+The Martha Stewart Channel         | US
+Property Brothers                  | US
+Chip & Jo: Feels Like Home by Magnolia Network| US
+This Old House                     | US
+Homeful                            | US
+Beach Day                          | US
+Ultimate Builds                    | US
+Rustic Retreats                    | US
+Tiny House Nation                  | US
+Home.Made.Nation                   | US
+PBS Antiques Roadshow              | US
+Antiques Roadshow UK               | US
+Antiques Road Trip                 | US
+Warner Bros. TV Sweet Escapes      | US
+Chef vs Chef by Food Network       | US
+Best of Bobby Flay by Food Network | US
+The Jamie Oliver Channel           | US
+Home Cooking by Food Network       | US
+America's Test Kitchen             | US
+Tastemade Smokehouse               | US
+No Reservations                    | US
+Delicious Eats by Food Network     | US
+BBC Earth                          | US
+Dinos 24/7                         | US
+PBS Nature                         | US
+Love Nature                        | US
+Naturescape                        | US
+ZenLIFE by Stingray                | US
+The Pet Collective                 | US
+Dog Whisperer                      | US
+Nick Jr. Pluto TV                  | US
+Mister Rogers' Neighborhood        | US
+Peppa Pig                          | US
+Little Stars Universe              | US
+Little Angel's Playroom            | US
+Little Angel's Playroom en Español | US
+El Reino Infantil                  | US
+Baby Shark TV                      | US
+Nick Pluto TV                      | US
+Nick en Español                    | US
+90's Kids                          | US
+90s Kids TV 2                      | US
+iCarly TV                          | US
+Totally Turtles                    | US
+Pokémon                            | US
+Pokémon en español                 | US
+Transformers TV                    | US
+Go Go Gadget!                      | US
+LEGO Kids TV                       | US
+Strawberry Shortcake and Friends   | US
+Kartoon Channel!                   | US
+Ryan and Friends                   | US
+Forever Kids                       | US
+Garfield and Friends               | US
+Pluto TV Anime                     | US
+Pluto TV Anime Movies              | US
+Crunchyroll                        | US
+ANIME x HIDIVE                     | US
+Sailor Moon                        | US
+One Piece                          | US
+Boruto: Naruto Next Generations    | US
+Inuyasha                           | US
+Yu-Gi-Oh!                          | US
+Cine Premiere                      | US
+Cine en español                    | US
+Cine aventura                      | US
+Cine adrenalina                    | US
+Más adrenalina                     | US
+Cine terror                        | US
+Cine comedia                       | US
+Cine Amor                          | US
+Telemundo telenovelas clásicas     | US
+Pluto TV Novelas                   | US
+CBS en español                     | US
+CSI en Español                     | US
+CSI: Miami en español              | US
+CSI: NY en español                 | US
+The Walking Dead en español        | US
+La Familia del Barrio              | US
+Acapulco Shore                     | US
+MTV en español                     | US
+Comedy Central en español          | US
+EstrellaTV                         | US
+Casos de la Dra. Polo              | US
+Vidas Extremas                     | US
+Construcciones Asombrosas          | US
+Sala de Emergencias: Historias Inéditas| US
+Crimen                             | US
+Crímenes imperfectos               | US
+Misterios sin resolver             | US
+Investiga                          | US
+CNN Noticias                       | US
+Estrella News                      | US
+Vevo Regional Mexicano             | US
+Vevo Íconos Latinos                | US
+Vevo 70s                           | US
+Vevo 80s                           | US
+Vevo 90s                           | US
+Vevo 2K                            | US
+CMT Equal Play                     | US
+XITE Classic Country               | US
+Vevo Country                       | US
+Yo! MTV                            | US
+Vevo True School Hip-Hop           | US
+Vevo R&B                           | US
+Vevo Rock                          | US
+XITE Rock x Metal                  | US
+Vevo Pop                           | US
+MTV Spankin' New                   | US
+MTV Biggest Pop                    | US
+MTV Flow Latino                    | US
+TikTok Radio                       | US
+XITE Gospel                        | US
+Classica                           | US
+Stingray DJAZZ                     | US
+Qello Concerts                     | US
+Pluto Royal Drama                  | US
+Ghosts                             | US
+Pluto Quirky AF                    | US
+Pluto Action/Drama                 | US
+AccuWeather NOW                    | US
+Bloomberg TV+                      | US
+Business Insider                   | US
+CBC News                           | US
+Cheddar News                       | US
+Local Now                          | US
+Reuters 60                         | US
+Spectrum News+                     | US
+TYT                                | US
+ACC Digital Network                | US
+beIN SPORTS XTRA                   | US
+Big 12 Studios                     | US
+Billiard TV                        | US
+Bowling TV                         | US
+Cowboy+ Sports                     | US
+Field & Stream                     | US
+Fubo Sports Network                | US
+NESN Nation                        | US
+PickleballTV                       | US
+PursuitUp                          | US
+Real Madrid TV                     | US
+Ryz Sports Network                 | US
+Scripps Sports Network             | US
+SI TV                              | US
+SportsGrid                         | US
+Strongman Champions League         | US
+SWAC TV                            | US
+Unbeaten Sports Channel            | US
+WaypointTV                         | US
+Willow Sports                      | US
+Black Experience on Xfinity        | US
+Cinelife                           | US
+CINEVAULT                          | US
+DOCUMENTARY+                       | US
+Ebony TV by Lionsgate              | US
+Filmrise                           | US
+Gravitas Movies                    | US
+Great American RomComs             | US
+Hi-Yah!                            | US
+Maverick Black Cinema              | US
+ITN's Creatureverse                | US
+MGM Presents                       | US
+MGM Presents Action                | US
+MovieSphere by Lionsgate           | US
+NEW Korean MOVIES & SERIES         | US
+OUTflix Movies                     | US
+Shades of Black                    | US
+SparkTV: Light & Love              | US
+Shout! Movies                      | US
+Stash TV                           | US
+Universal Movies                   | US
+The Wu Tang Collection TV          | US
+Xumo Free Black Cinema             | US
+Xumo Free Documentaries            | US
+Xumo Free Movies                   | US
+Xumo Her Free Movies               | US
+Acorn TV Mysteries                 | US
+Baywatch                           | US
+Bizaar                             | US
+Demand Africa                      | US
+Designated Survivor                | US
+ElectricNOW                        | US
+Fairground AI Creator TV           | US
+GET                                | US
+GoldenTV                           | US
+ION Plus                           | US
+KOCOWA K-Drama                     | US
+Las Vegas                          | US
+MGM Celebrates Black Cinema        | US
+Murdoch Mysteries                  | US
+Nash Bridges Channel               | US
+Transformers                       | US
+Weeds & Nurse Jackie               | US
+Xumo Free Action & Drama TV        | US
+Xumo Free Action Movies            | US
+25 Words or Less                   | US
+America's Got Talent               | US
+American Ninja Warrior             | US
+Fear Factor                        | US
+The Celebrity Name Game Channel    | US
+Xumo Free Game Show TV             | US
+All Weddings We TV                 | US
+Bachelor Nation                    | US
+Complex TV                         | US
+Dance Moms by Lifetime             | US
+Deal Zone by History               | US
+Alfred Hitchcock Presents          | US
+Alien Nation by DUST               | US
+AMC Thrillers                      | US
+Classic Doctor Who                 | US
+Dark Matter TV                     | US
+Dungeons & Dragons Adventures      | US
+Ghosts Are Real                    | US
+Haunt TV                           | US
+MGM Presents Horror                | US
+Mysterious Worlds                  | US
+OuterSphere by Lionsgate           | US
+Paranormal Files                   | US
+Scares by Shudder                  | US
+The Outer Limits                   | US
+The Asylum                         | US
+Xumo Free Horror & Thriller Movies | US
+Xumo Free Sci-Fi & Fantasy Movies  | US
+Divorce Court                      | US
+Dr. Phil                           | US
+Lauren Lake's Paternity Court      | US
+Wendy Williams                     | US
+E! Keeping Up                      | US
+Extreme Jobs                       | US
+Growing Up Hip Hop We TV           | US
+Hell's Kitchen                     | US
+Highway Thru Hell                  | US
+Ice Road Truckers by History       | US
+Love After Lockup                  | US
+Mayday: Air Disaster               | US
+Rig TV                             | US
+Say Yes to the Dress               | US
+The Girls Next Door                | US
+The Osbournes                      | US
+Untold Stories of the ER           | US
+Xumo Free Reality TV               | US
+Xtreme Outdoor                     | US
+GoUSA TV                           | US
+JTV Jewelry Love                   | US
+PBS Travel                         | US
+Tastemade Travel Channel           | US
+Xumo Free Travel & Lifestyle TV    | US
+BBC Food                           | US
+Bizarre Foods with Andrew Zimmern  | US
+Come Dine With Me                  | US
+Cook's Country Channel             | US
+Great British Menu                 | US
+GustoTV                            | US
+Hungry                             | US
+Lidia's Kitchen                    | US
+PBS Food                           | US
+Sweet Escapes                      | US
+Taste                              | US
+Tastemade                          | US
+The Emeril Lagasse Channel         | US
+Xumo Free Food TV                  | US
+A&E Alaska State Troopers          | US
+A&E Live PD: Greatest Shifts       | US
+Court TV Legendary Trials          | US
+Crime Up Close                     | US
+ION Mystery                        | US
+Law & Crime                        | US
+Lawless by Lionsgate               | US
+REELZ Famous & Infamous            | US
+The F.B.I.                         | US
+The First 48 by A&E                | US
+TV One Crime & Justice             | US
+Xumo Free Crime TV                 | US
+Family Affair Channel              | US
+Green Acres                        | US
+In the Heat of the Night           | US
+Johnny Carson TV                   | US
+Lassie                             | US
+Leave It to Beaver                 | US
+Murder, She Wrote                  | US
+The Carol Burnett Show             | US
+Combat War Channel                 | US
+Cosmic Frontiers                   | US
+History & Warfare                  | US
+How To                             | US
+PBS Genealogy                      | US
+Secrets of War                     | US
+Space Live Powered by Sen          | US
+True History Channel               | US
+ET                                 | US
+The Graham Norton Show             | US
+TV One Stars & Stories             | US
+Vice Entertainment                 | US
+Anger Management Channel           | US
+Are We There Yet?                  | US
+Comedy Dynamics                    | US
+Creator Television                 | US
+GET Comedy                         | US
+It's Showtime at the Apollo        | US
+Just for Laughs Gags               | US
+Laff More                          | US
+LOL Network                        | US
+NBC Comedy Vault                   | US
+Portlandia                         | US
+Saved by the Bell                  | US
+SNL Vault                          | US
+The Conners                        | US
+WITZ Comedy TV                     | US
+Xumo Free Comedy Movies            | US
+Xumo Free Comedy TV                | US
+GLORY Kickboxing                   | US
+HBO Boxing                         | US
+One Championship                   | US
+Swerve Combat                      | US
+TNA Wrestling Channel              | US
+AMERICATEVÉ                        | US
+beIN SPORTS XTRA en Español        | US
+Canela.TV Clasicos                 | US
+Caso Cerrado                       | US
+Como Dice El Dicho                 | US
+Cine Romántico                     | US
+Dateline en Español                | US
+El Señor de los Cielos             | US
+Estrella TV                        | US
+FILMEX                             | US
+FILMEX CLASICO                     | US
+Fluffy TV                          | US
+Jajaja                             | US
+La Fea Mas Bella                   | US
+Lucha Plus                         | US
+Madre                              | US
+Noticias Telemundo Ahora           | US
+Noticias Univision 24/7            | US
+Rebelde                            | US
+Spectrum Noticias                  | US
+Telemundo Al Día                   | US
+Una Familia de Diez                | US
+Zona TUDN                          | US
+All Babies Channel                 | US
+My Little Pony                     | US
+Ninja Kidz TV                      | US
+Power Rangers                      | US
+Rainbow Rangers                    | US
+Sensical Jr.                       | US
+Teletubbies                        | US
+Toon Goggles                       | US
+Xumo Free Kids TV                  | US
+Bark TV                            | US
+EarthXtra                          | US
+Love The Planet                    | US
+Stingray Naturescape               | US
+The Jack Hanna Channel             | US
+The Lucky Dog Channel              | US
+The Yorkshire Vet & Friends        | US
+WildEarth                          | US
+Xumo Free Nature & Wildlife TV     | US
+Dove                               | US
+Elevation Church Network           | US
+FAITHOPE                           | US
+GaitherTV                          | US
+Highway to Heaven                  | US
+Impact Gospel                      | US
+In Touch+                          | US
+JLTV                               | US
+Joel Osteen Network                | US
+Pure Flix TV                       | US
+Stellar                            | US
+Trinity Broadcast Network          | US
+Xumo Free Family Movies            | US
+Driftwood                          | US
+iHeart90s                          | US
+iHeartCountry                      | US
+iHeartCountry Classics             | US
+iHeartRadio Hip Hop Beats          | US
+Stingray Classic Rock              | US
+Stingray Greatest Hits             | US
+Stingray Hit List                  | US
+Stingray Hot Country               | US
+Stingray Remember the 80s          | US
+Stingray Soul Storm                | US
+CINEVAULT Westerns                 | US
+Circle Country                     | US
+Grit Xtra                          | US
+MGM Presents Westerns              | US
+McLeod's Daughters                 | US
+The Virginian                      | US
+Universal Westerns                 | US
+Western Bound Wrangled by INSP     | US
+Wild West TV                       | US
+Xumo Free Westerns                 | US
+@Home DIY                          | US
+At Home with Family Handyman       | US
+BBC Home & Garden                  | US
+CraftsyTV                          | US
+Garden with Monty Don              | US
+Home. Made. Nation                 | US
+NBC LX Home                        | US
+Places & Spaces                    | US
+Property & Reno                    | US
+Tastemade Home                     | US
+The Design Network                 | US
+Today's Homeowner                  | US
+Classic Car Auctions by History    | US
+Discovery Turbo TV                 | US
+Fifth Gear                         | US
+NASCAR Channel                     | US
+RACER Select                       | US
+SPEEDVISION                        | US
+Torque by History                  | US
+Localish                           | US
+USA Today                          | US
+theGrio                            | US
+Euronews                           | US
+NHL Channel                        | US
+MLB Channel                        | US
+NBA Channel                        | US
+NBA League TV                      | US
+NASCAR                             | US
+FOX Sports on Tubi                 | US
+Fox Sports en Español              | US
+DAZN Women's Football              | US
+MotorTrend FAST TV                 | US
+Stadium                            | US
+Waypoint TV                        | US
+Outside TV                         | US
+NHRA                               | US
+FilmRise Black TV                  | US
+Revolt Mixtape                     | US
+The Johnny Carson Show             | US
+Wanted: Dead or Alive              | US
+The FBI                            | US
+Always Funny                       | US
+Anger Management                   | US
+Are We There Yet                   | US
+LOL! Network                       | US
+LOL! Stand-Up                      | US
+Deal or No Deal USA                | US
+Fear Factor USA                    | US
+The Biggest Loser                  | US
+The Masked Singer                  | US
+Wipeout Xtra                       | US
+Gordon Ramsay                      | US
+FilmRise Horror                    | US
+Horror by ALTER                    | US
+Kartoon Channel                    | US
+Family Faves                       | US
+Gardening with Monty Don           | US
+In the Garage                      | US
+Welcome Home                       | US
+Travel + Adventure                 | US
+At the Movies                      | US
+CINEVAULT: Classics                | US
+CINEVAULT: Westerns                | US
+MyTime Movie Network               | US
+Classic Cinema                     | US
+Silent Witness and New Tricks      | US
+MrBeast                            | US
+Vice                               | US
+TMZ                                | US
+Love Quest                         | US
+So...Real                          | US
+Family Unscripted                  | US
+Love & Desire                      | US
+Love & Marriage                    | US
+Unique Lives                       | US
+Dr. G: Medical Examiner            | US
+OuterSphere                        | US
+Cosmos                             | US
+Paws & Claws                       | US
+World's Most Evil Killers          | US
+FBI Files                          | US
+FilmRise True Crime                | US
+Total Crime                        | US
+Crime Scenes                       | US
+Chasing Criminals                  | US
+Tubi Originals                     | US
+Nikita                             | US
+Watchlist                          | US
+Generation Drama                   | US
+Estrella Games                     | US
+Cine EstrellaTV                    | US
+A&E                                | US
+AMC                                | US
+AXS TV                             | US
+BBC America                        | US
+BET                                | US
+Bloomberg Television               | US
+Charge!                            | US
+CNN                                | US
+Comet                              | US
+Fuse                               | US
+History                            | US
+IFC                                | US
+Investigation Discovery            | US
+Lifetime                           | US
+MGM+ Drive-In                      | US
+Nick Jr.                           | US
+Sling Scapes                       | US
+TBS                                | US
+TNT                                | US
+Travel Channel                     | US
+ESPN                               | US
+ESPN2                              | US
+Freeform                           | US
+MotorTrend                         | US
+ABC                                | US
+FOX                                | US
+NBC                                | US
+Bravo                              | US
+Cartoon Network                    | US
+Discovery Channel                  | US
+E!                                 | US
+FS1                                | US
+FX                                 | US
+Fox News Channel                   | US
+HLN                                | US
+MS NOW                             | US
+NFL Network                        | US
+National Geographic                | US
+Syfy                               | US
+USA Network                        | US
+truTV                              | US
+PBS                                | US
+PBS KIDS                           | US
+AccuWeather                        | US
+American Heroes Channel            | US
+Animal Planet                      | US
+aspireTV                           | US
+BET Her                            | US
+Catchy Comedy                      | US
+Cleo TV                            | US
+CMT                                | US
+Cooking Channel                    | US
+Crime + Investigation              | US
+Dabl                               | US
+Deck the Hallmark                  | US
+Destination America                | US
+Discovery Family                   | US
+Discovery Life                     | US
+EarthxTV                           | US
+FETV                               | US
+FYI                                | US
+Game Show Network                  | US
+getTV                              | US
+Great American Faith & Living      | US
+Hallmark Channel                   | US
+Hallmark Family                    | US
+Hallmark Movies & Mysteries        | US
+Heroes & Icons                     | US
+INSP                               | US
+LMN                                | US
+Logo                               | US
+Magnolia Network                   | US
+MeTV                               | US
+MeTV+                              | US
+MeTV Toons                         | US
+Military History                   | US
+MTV                                | US
+MTV2                               | US
+MTV Classic                        | US
+MTV Live                           | US
+Nicktoons                          | US
+OWN                                | US
+Paramount Network                  | US
+Pop TV                             | US
+Science Channel                    | US
+Smithsonian Channel                | US
+Start TV                           | US
+Story Television                   | US
+SundanceTV                         | US
+TeenNick                           | US
+TV Land                            | US
+TV One                             | US
+UPtv                               | US
+VH1                                | US
+WE tv                              | US
+CBS                                | US
+The CW                             | US
+Telemundo                          | US
+ACC Network                        | US
+ACC Network Extra                  | US
+ACL Cornhole TV                    | US
+beIN SPORTS                        | US
+beIN SPORTS 4                      | US
+beIN SPORTS 5                      | US
+beIN SPORTS 6                      | US
+beIN SPORTS 7                      | US
+beIN SPORTS 8                      | US
+beIN SPORTS en Español             | US
+beIN SPORTS Xtra Español           | US
+The Big Dish                       | US
+Big Ten Network                    | US
+Big Ten Network Alt 2              | US
+Big Ten Network Alt 3              | US
+Big Ten Network Alt 4              | US
+BKFC TV                            | US
+Bounce                             | US
+CBS Sports Network                 | US
+CINEVAULT Classics                 | US
+Clicker TV                         | US
+Cozi                               | US
+Craftsy TV                         | US
+Curiosity                          | US
+Disney XD                          | US
+Dove Channel                       | US
+DP Tour                            | US
+DraftKings Network                 | US
+Ebony TV                           | US
+ESPN8 The Ocho                     | US
+Family Movie Classics              | US
+FIFA+                              | US
+FloHockey                          | US
+FloRacing                          | US
+Formula 1 Channel                  | US
+FOX Business Network               | US
+FOX LiveNow                        | US
+FOX SOUL                           | US
+FS2                                | US
+Free Movies                        | US
+Free Movies+                       | US
+Fubo Latino Network                | US
+Fubo Movies Channel                | US
+Fubo Sports Network Xtra           | US
+FXX                                | US
+GAC Faith and Living               | US
+GAC Family                         | US
+Giddy Up TV                        | US
+GINX Esports TV                    | US
+GREAT                              | US
+Grit                               | US
+Gusto TV                           | US
+H&I                                | US
+Hallmark Mystery                   | US
+HerSphere                          | US
+ION+                               | US
+Jomboy Media                       | US
+Justice Central                    | US
+Kitchen Nightmares                 | US
+Laff                               | US
+Locked On Sports Los Angeles       | US
+Locked On Sports Today             | US
+Love Bites                         | US
+Man Cave Movies                    | US
+MOVIES!                            | US
+Nat Geo Channel                    | US
+NBC Sports 4K                      | US
+NBC Universo                       | US
+NBCSN                              | US
+News 12 New York                   | US
+Newsmax                            | US
+NewsNation                         | US
+PBR Ride Class                     | US
+Perfect Game                       | US
+Pet Collective                     | US
+PFL                                | US
+Players TV                         | US
+PLL Network                        | US
+Pop                                | US
+Popular Science                    | US
+PowerSports World                  | US
+Powernation en Español             | US
+Real Madrid                        | US
+SEC Network                        | US
+SEC Network+                       | US
+SPEED SPORT 1                      | US
+StartTV                            | US
+Surf Cinema                        | US
+T2: Tennis Channel                 | US
+Tastemade Travel                   | US
+TERRIFIED                          | US
+The FBI Files                      | US
+The Nest                           | US
+The Weather Channel                | US
+True CRMZ                          | US
+Unbeaten                           | US
+WNBA on ION                        | US
+WNBA on ION 2                      | US
+WNBA on ION 3                      | US
+Yahoo! Sports Network              | US
+A Wealth of Entertainment          | US
+All Reality                        | US
+Adult Swim                         | US
+Cars TV                            | US
+CNBC                               | US
+CNBC World                         | US
+Comedy.TV                          | US
+Comet TV                           | US
+Cozi TV                            | US
+C-SPAN                             | US
+C-SPAN 2                           | US
+C-SPAN 3                           | US
+Disney Junior                      | US
+Docurama                           | US
+ESPNU                              | US
+ESPNEWS                            | US
+FOX Business                       | US
+FXM                                | US
+GREAT TV                           | US
+Golf Channel                       | US
+Great American Family              | US
+HBCU GO                            | US
+JusticeCentral.TV                  | US
+MyNetworkTV                        | US
+NBA TV                             | US
+NECN                               | US
+Nat Geo Wild                       | US
+One America News                   | US
+Oxygen                             | US
+Oxygen True Crime                  | US
+Pets TV                            | US
+Recipe.TV                          | US
+ROAR                               | US
+T2                                 | US
+TCM                                | US
+The Great Courses                  | US
+Univision                          | US
+World at War                       | US
+UniMás                             | US
+Galavisión                         | US
+TUDN                               | US
+ABC Localish                       | US
+CBS News                           | US
+Crime+Investigation                | US
+C-SPAN2                            | US
+C-SPAN3                            | US
+Discovery                          | US
+FanDuel TV                         | US
+FOX News                           | US
+Galavision                         | US
+Lifetime Movies                    | US
+MLB Network                        | US
+National Geographic Wild           | US
+T2 Live Tennis                     | US
+The History Channel                | US
+True Crime Network                 | US
+Vevo                               | US
+CBS Sports Golazo                  | US
+SpongeBob SquarePants              | US
+80s Sitcom                         | US
+TV Classics                        | US
+Nostalgic Hits                     | US
+Animation Favorites                | US
+Paw Patrol                         | US
+Preschool Corner                   | US
+90s Sitcom                         | US
+Kids & Family Fun                  | US
+24/7 Laughs                        | US
+Showtime                           | US
+History & Undiscovered             | US
+Crime & Justice                    | US
+Inside Edition                     | US
+Movies                             | US
+Black Voices                       | US
+RuPaul's Drag Race                 | US
+Reality TV: Shores                 | US
+All Day Drama                      | US
+Reality TV: Competition            | US
+Premier League TV                  | US
+Black-Led Comedy                   | US
+The Office                         | US
+Sitcom Staples                     | US
+Modern Family                      | US
+That '70s Show                     | US
+Comedy TV                          | US
+Women-Led Favorites                | US
+Drama TV                           | US
+Comedy Movies                      | US
+Hit Blockbuster Movies             | US
+Family Movies                      | US
+REELZ                              | US
+Law & Order SVU                    | US
+One Chicago                        | US
+On Patrol: Live                    | US
+Snapped                            | US
+Race Against Crime                 | US
+Family Crimes                      | US
+Peacock Latino                     | US
+Vanderpump Rules                   | US
+Chrisley Knows Best                | US
+Peacock Reality                    | US
+The Real Housewives                | US
+Below Deck                         | US
+FOX Deportes                       | US
+Public Sénat                       | FR
+France 24                          | FR
+T18                                | FR
+NOVO19                             | FR
+RMC Mecanic                        | FR
+BFM Business                       | FR
+Tech&Co                            | FR
+BFM Marseille Provence             | FR
+BFM Lyon Métropole                 | FR
+BFM Grand Lille                    | FR
+BFM Alsace                         | FR
+BFM DICI Alpes du Sud              | FR
+BFM DICI Haute-Provence            | FR
+BFM Grand Littoral                 | FR
+BFM Nice Côte d'Azur               | FR
+BFM Normandie                      | FR
+BFM Toulon Var                     | FR
+CGTN Français                      | FR
+Figaro Live                        | FR
+Wild Side                          | FR
+M24                                | FR
+Sport en France                    | FR
+Molotov Cinema                     | FR
+Molotov Series                     | FR
+Molotov Docs                       | FR
+Molotov Kids                       | FR
+Molotov Novelas                    | FR
+Molotov Blood                      | FR
+Tennis Channel Live                | FR

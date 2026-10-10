@@ -1,0 +1,83 @@
+# DNS Switch - TV channels: Philo
+# updated: 2026-10-10
+# source: https://www.tvguide.com/news/philo-channels-list https://www.cabletv.com/philo/channel-lineup
+#
+# Philo base plan channels named by both TV Guide (updated Dec 2025) and cabletv.com (updated Apr 2026).
+# Left out: names in only one list (QVC, Great American Family, BBC World News, Revolt), add-ons and Philo's free FAST channels.
+#
+# Kept by hand: one channel per line. Lines starting with # are ignored.
+# Change the "updated" date above when you edit.
+#
+A&E
+AccuWeather
+AMC
+American Heroes Channel
+Animal Planet
+aspireTV
+AXS TV
+BBC America
+BET
+BET Her
+Catchy Comedy
+Cleo TV
+CMT
+Comedy Central
+Cooking Channel
+Crime + Investigation
+Dabl
+Deck the Hallmark
+Destination America
+Discovery Channel
+Discovery Family
+Discovery Life
+EarthxTV
+FETV
+Food Network
+FYI
+Game Show Network
+getTV
+Great American Faith & Living
+Hallmark Channel
+Hallmark Family
+Hallmark Movies & Mysteries
+Heroes & Icons
+HGTV
+History
+IFC
+INSP
+Investigation Discovery
+Law & Crime
+Lifetime
+LMN
+Logo
+Magnolia Network
+MeTV
+MeTV+
+MeTV Toons
+Military History
+MotorTrend
+MTV
+MTV2
+MTV Classic
+MTV Live
+Nick Jr.
+Nickelodeon
+Nicktoons
+OWN
+Paramount Network
+Pop TV
+Science Channel
+Smithsonian Channel
+Start TV
+Story Television
+SundanceTV
+Tastemade
+TeenNick
+TLC
+Travel Channel
+TV Land
+TV One
+UPtv
+VH1
+Vice
+WE tv

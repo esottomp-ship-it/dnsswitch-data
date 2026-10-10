@@ -1,0 +1,217 @@
+# DNS Switch - TV channels: Fubo
+# updated: 2026-10-10
+# source: https://www.cabletv.com/fubotv/channel-lineup https://support.fubo.tv/hc/en-us/articles/38725620590733
+#
+# Fubo Pro plan as listed by cabletv.com (updated Oct 8, 2026); NBC/Bravo/Telemundo/NBCSN confirmed by Fubo Help (Aug 2026).
+# Left out: the Fubo Radio audio channels, add-ons and the Latino plan. ABC, CBS, CW, FOX, NBC, Telemundo are local and vary by area. MSNBC listed as MS NOW.
+#
+# Kept by hand: one channel per line. Lines starting with # are ignored.
+# Change the "updated" date above when you edit.
+#
+ABC
+CBS
+The CW
+FOX
+NBC
+Telemundo
+ABC News Live
+ACC Digital Network
+ACC Network
+ACC Network Extra
+AccuWeather
+ACL Cornhole TV
+Always Funny
+American Crimes
+AXS TV
+beIN SPORTS
+beIN SPORTS 4
+beIN SPORTS 5
+beIN SPORTS 6
+beIN SPORTS 7
+beIN SPORTS 8
+beIN SPORTS en Español
+beIN SPORTS Xtra Español
+BET
+Big 12 Studios
+The Big Dish
+Big Ten Network
+Big Ten Network Alt 2
+Big Ten Network Alt 3
+Big Ten Network Alt 4
+Billiard TV
+BKFC TV
+Bloomberg TV
+Bounce
+Bravo
+Caso Cerrado
+Catchy Comedy
+CBS News 24/7
+CBS Sports Network
+Charge!
+CINEVAULT
+CINEVAULT Classics
+CINEVAULT Westerns
+Cleo TV
+Clicker TV
+CMT
+Comedy Central
+Comedy Dynamics
+Comet
+Court TV
+Court TV Legendary Trials
+Cozi
+Craftsy TV
+Crime Time
+Curiosity
+Crunchyroll
+Dabl
+Dark Matter TV
+DAZN Ringside
+Disney Channel
+Disney XD
+Dove Channel
+DP Tour
+DraftKings Network
+E!
+Ebony TV
+ESPN
+ESPN2
+ESPN8 The Ocho
+Estrella TV
+Euronews
+FailArmy
+Family Movie Classics
+FETV
+FIFA+
+FloHockey
+FloRacing
+Forensic Files
+Formula 1 Channel
+FOX Business Network
+FOX LiveNow
+Fox News Channel
+FOX SOUL
+FS1
+FS2
+FOX Weather
+Freeform
+Free Movies
+Free Movies+
+Fubo Latino Network
+Fubo Movies Channel
+Fubo Sports Network
+Fubo Sports Network Xtra
+FX
+FXX
+GAC Faith and Living
+GAC Family
+Game Show Central
+GET Comedy
+Giddy Up TV
+GINX Esports TV
+GLORY Kickboxing
+GREAT
+Grit
+Gusto TV
+H&I
+Hallmark Channel
+Hallmark Family
+Hallmark Mystery
+Hell's Kitchen
+HerSphere
+ION
+ION Mystery
+ION+
+Jomboy Media
+Justice Central
+Kitchen Nightmares
+Laff
+Law & Crime
+Local Now
+Localish
+Locked On Sports Los Angeles
+Locked On Sports Today
+Love Bites
+Man Cave Movies
+Maverick Black Cinema
+MeTV
+MeTV+
+MeTV Toons
+MOVIES!
+MovieSphere
+MS NOW
+MTV
+Nat Geo Channel
+NBC News Now
+NBC Sports 4K
+NBC Universo
+NBCSN
+News 12 New York
+Newsmax
+Newsmax2
+NewsNation
+NFL Network
+Nick Jr.
+Nickelodeon
+ONE Championship TV
+OuterSphere
+Paramount Network
+PBR Ride Class
+Perfect Game
+Pet Collective
+PFL
+PGA Tour
+Players TV
+PLL Network
+Pop
+Powernation
+Popular Science
+PowerSports World
+Powernation en Español
+QVC
+QVC2
+RACER Select
+Real Madrid
+Red Bull TV
+Salem News Channel
+Scripps News
+SEC Network
+SEC Network+
+ShopLC
+Smithsonian Channel
+SPEED SPORT 1
+Speedvision
+Stadium
+StartTV
+Story Television
+Surf Cinema
+Swerve Combat
+T2: Tennis Channel
+Tastemade
+Tastemade Home
+Tastemade Travel
+TERRIFIED
+The Bob Ross Channel
+The Design Network
+The FBI Files
+The First
+The NBA Channel
+The Nest
+The Weather Channel
+Today All Day
+Triton Poker
+True Crime
+True CRMZ
+TV Land
+Unbeaten
+Unsolved Mysteries
+Untold Stories of the ER
+USA Network
+VH1
+Willow Sports
+WNBA on ION
+WNBA on ION 2
+WNBA on ION 3
+Women's Sports Network
+World's Most Evil Killers
+Yahoo! Sports Network

@@ -1,0 +1,60 @@
+# DNS Switch - TV channels: Sling TV
+# updated: 2026-10-10
+# source: https://www.cabletv.com/sling-tv/channel-lineup https://agoodmovietowatch.com/cord-cutting/comparaisons/slingorange-vs-slingblue-vs-philo/ https://www.goal.com/en-us/news/sling-orange-versus-sling-blue/bltdea8323e946aeed2 https://home.sling.com/help/en/subscription-programming-questions/channels-programming/channel-faq
+#
+# Sling Orange + Sling Blue base channels named by at least two of three 2026 listings (sling.com shows lineups by ZIP only).
+# Left out: ESPN3 (on-demand only per Sling's FAQ), 4K duplicates, Sling Scapes 2, extras/add-ons. MSNBC is listed as MS NOW (renamed 2025).
+# Orange only: Disney Channel, ESPN, ESPN2, Freeform, MotorTrend. Blue only: ABC, FOX, NBC (select markets), Bravo, Cartoon Network, Discovery, E!, FS1, FX, Fox News, HLN, MS NOW, NFL Network, Nat Geo, Syfy, TLC, USA, truTV. Rest: both.
+#
+# Kept by hand: one channel per line. Lines starting with # are ignored.
+# Change the "updated" date above when you edit.
+#
+A&E
+AMC
+AXS TV
+BBC America
+BET
+Bloomberg Television
+Charge!
+CNN
+Comedy Central
+Comet
+Food Network
+Fuse
+HGTV
+History
+IFC
+Investigation Discovery
+Lifetime
+Local Now
+MGM+ Drive-In
+Nick Jr.
+QVC
+Sling Scapes
+TBS
+TNT
+Travel Channel
+Vice
+Disney Channel
+ESPN
+ESPN2
+Freeform
+MotorTrend
+ABC
+FOX
+NBC
+Bravo
+Cartoon Network
+Discovery Channel
+E!
+FS1
+FX
+Fox News Channel
+HLN
+MS NOW
+NFL Network
+National Geographic
+Syfy
+TLC
+USA Network
+truTV

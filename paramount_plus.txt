@@ -1,0 +1,41 @@
+# DNS Switch - TV channels: Paramount+
+# updated: 2026-10-10
+# source: https://cordcuttersnews.com/paramount-now-has-31-live-channels/
+#
+# The 31 live channels listed by Cord Cutters News (Aug 21, 2025); no official list could be read. CBS = your local CBS station.
+# Showtime is for the Showtime tier only. Lineup may have changed since.
+#
+# Kept by hand: one channel per line. Lines starting with # are ignored.
+# Change the "updated" date above when you edit.
+#
+CBS
+CBS Sports HQ
+CBS Sports Golazo
+SpongeBob SquarePants
+80s Sitcom
+TV Classics
+Nostalgic Hits
+Star Trek
+Animation Favorites
+Paw Patrol
+Preschool Corner
+90s Sitcom
+CSI
+Kids & Family Fun
+24/7 Laughs
+Showtime
+History & Undiscovered
+Crime & Justice
+Inside Edition
+60 Minutes
+Movies
+Black Voices
+48 Hours
+UEFA Champions League
+RuPaul's Drag Race
+Reality TV: Shores
+All Day Drama
+Survivor
+ET
+The Challenge
+Reality TV: Competition

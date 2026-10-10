@@ -1,0 +1,411 @@
+# DNS Switch - TV channels: Xumo Play
+# updated: 2026-10-10
+# source: https://support.xumo.com/hc/en-us/articles/22542759716500-What-can-I-watch-on-Xumo-Play https://support.xumo.com/hc/en-us/article_attachments/54335771657748
+#
+# From the official Xumo channel lineup PDF ("As of October 5, 2026"), linked from the Xumo Play support page.
+# Left out: the ~60 local station feeds (FOX LOCAL, NBC/CBS News city feeds, Telemundo Noticias regional, WSB, KIRO...)
+# because they depend on the viewer's area. Some channels are "available on select devices" only.
+#
+# Kept by hand: one channel per line. Lines starting with # are ignored.
+# Change the "updated" date above when you edit.
+#
+ABC News Live
+AccuWeather NOW
+BBC News
+Bloomberg TV+
+Business Insider
+CBC News
+CBS News 24/7
+Cheddar News
+CNN Headlines
+Fox Weather
+LiveNOW from FOX
+Local Now
+NBC News NOW
+Newsmax2
+OAN Plus
+Reuters 60
+Salem News Channel
+Scripps News
+Sky News
+Spectrum News+
+TODAY All Day
+TYT
+ACC Digital Network
+beIN SPORTS XTRA
+Big 12 Studios
+Billiard TV
+Bowling TV
+CBS Sports HQ
+Cowboy+ Sports
+Field & Stream
+FOX Sports
+Fubo Sports Network
+Golfpass
+NBC Sports NOW
+NESN Nation
+NFL Channel
+PBR RidePass
+PGA TOUR
+PickleballTV
+PokerGO
+PursuitUp
+Real Madrid TV
+Ryz Sports Network
+Scripps Sports Network
+SI TV
+SportsGrid
+Strongman Champions League
+SWAC TV
+TennisChannel 2
+Triton Poker
+The NBA Channel
+Unbeaten Sports Channel
+WaypointTV
+Willow Sports
+World Poker Tour
+Black Experience on Xfinity
+Cinelife
+CINEVAULT
+DOCUMENTARY+
+Ebony TV by Lionsgate
+Filmrise
+Gravitas Movies
+Great American RomComs
+Hallmark Movies & More
+Hi-Yah!
+Maverick Black Cinema
+ITN's Creatureverse
+MGM Presents
+MGM Presents Action
+MovieSphere by Lionsgate
+NEW Korean MOVIES & SERIES
+OUTflix Movies
+Shades of Black
+SparkTV: Light & Love
+Shout! Movies
+Stash TV
+Universal Movies
+The Wu Tang Collection TV
+Xumo Free Black Cinema
+Xumo Free Documentaries
+Xumo Free Movies
+Xumo Her Free Movies
+50 Cent Action
+Acorn TV Mysteries
+Baywatch
+Bizaar
+Demand Africa
+Designated Survivor
+El Rey Rebel
+ElectricNOW
+Fairground AI Creator TV
+GET
+GoldenTV
+Heartland
+ION
+ION Plus
+KOCOWA K-Drama
+Las Vegas
+MGM Celebrates Black Cinema
+Murdoch Mysteries
+Nash Bridges Channel
+Stories by AMC
+Transformers
+Universal Action
+Weeds & Nurse Jackie
+Xumo Free Action & Drama TV
+Xumo Free Action Movies
+25 Words or Less
+America's Got Talent
+American Ninja Warrior
+BUZZR
+Deal or No Deal
+Family Feud
+Family Feud Classic
+Fear Factor
+Game Show Central
+Supermarket Sweep
+The Celebrity Name Game Channel
+The Price is Right: The Barker Era
+Xumo Free Game Show TV
+All Reality We TV
+All Weddings We TV
+ALLBLK Gems
+Bachelor Nation
+Bad Girls Club
+Bravo Vault
+Cheaters
+Complex TV
+Dance Moms by Lifetime
+Deal Zone by History
+Dog the Bounty Hunter
+Ancient Aliens
+Alfred Hitchcock Presents
+Alien Nation by DUST
+AMC Thrillers
+Classic Doctor Who
+Crunchyroll
+Dark Matter TV
+Dungeons & Dragons Adventures
+Ghost Hunters Channel
+Ghosts Are Real
+Haunt TV
+MGM Presents Horror
+Mysterious Worlds
+OuterSphere by Lionsgate
+Paranormal Files
+Scares by Shudder
+Stargate
+The Outer Limits
+The Asylum
+The Walking Dead Universe
+Universal Monsters
+UnXplained Zone
+Xumo Free Horror & Thriller Movies
+Xumo Free Sci-Fi & Fantasy Movies
+Confess by Nosey
+Divorce Court
+Dr. Phil
+Lauren Lake's Paternity Court
+Nosey
+Wendy Williams
+E! Keeping Up
+Extreme Jobs
+Growing Up Hip Hop We TV
+Hell's Kitchen
+Highway Thru Hell
+Ice Road Truckers by History
+Love After Lockup
+Matched Married Meet by Lifetime
+Mayday: Air Disaster
+MythBusters
+Real Housewives Vault
+Rig TV
+Say Yes to the Dress
+Storage Wars by A&E
+The Girls Next Door
+The Osbournes
+Untold Stories of the ER
+World of Love Island
+Xumo Free Reality TV
+Xtreme Outdoor
+Antiques Road Trip
+Antiques Roadshow UK
+GoUSA TV
+HSN
+JTV Jewelry Love
+PBS Antiques Roadshow
+PBS Travel
+QVC
+QVC2
+ShopLC
+Tastemade Travel Channel
+The Martha Stewart Channel
+Xumo Free Travel & Lifestyle TV
+America's Test Kitchen
+BBC Food
+Bizarre Foods with Andrew Zimmern
+Come Dine With Me
+Cook's Country Channel
+Great British Menu
+GustoTV
+Hungry
+Lidia's Kitchen
+PBS Food
+Sweet Escapes
+Taste
+Tastemade
+The Emeril Lagasse Channel
+The Jamie Oliver Channel
+Xumo Free Food TV
+A&E Alaska State Troopers
+A&E Crime 360
+A&E Live PD: Greatest Shifts
+American Crimes
+BritBox Mysteries
+Court TV
+Court TV Legendary Trials
+Crime Up Close
+Dateline 24/7
+Forensic Files
+ION Mystery
+Law & Crime
+Law & Order
+Lawless by Lionsgate
+Live PD Presents
+Midsomer Murders
+Oxygen True Crime Archives
+REELZ Famous & Infamous
+The F.B.I.
+The First 48 by A&E
+TV One Crime & Justice
+Universal Crime
+Unsolved Mysteries
+Xumo Free Crime TV
+Family Affair Channel
+Green Acres
+In the Heat of the Night
+Johnny Carson TV
+Lassie
+Leave It to Beaver
+Murder, She Wrote
+The Addams Family
+The Carol Burnett Show
+CNN Originals
+Combat War Channel
+Cosmic Frontiers
+Curiosity Now
+History & Warfare
+How To
+Modern Marvels by History
+PBS Genealogy
+Secrets of War
+Space Live Powered by Sen
+True History Channel
+ET
+Revry
+The Graham Norton Show
+TV One Stars & Stories
+Vice Entertainment
+Anger Management Channel
+Are We There Yet?
+Bounce XL
+Comedy Dynamics
+Creator Television
+FailArmy
+GET Comedy
+Hit Sitcoms
+It's Showtime at the Apollo
+Just for Laughs Gags
+Laff More
+LOL Network
+Mystery Science Theater 3000
+NBC Comedy Vault
+Portlandia
+Rifftrax
+Saved by the Bell
+SNL Vault
+The Conners
+WITZ Comedy TV
+Xumo Free Comedy Movies
+Xumo Free Comedy TV
+GLORY Kickboxing
+HBO Boxing
+One Championship
+PFL MMA
+Swerve Combat
+TNA Wrestling Channel
+UFC
+AMERICATEVÉ
+beIN SPORTS XTRA en Español
+Canela.TV Clasicos
+Caso Cerrado
+Como Dice El Dicho
+Cine Romántico
+Dateline en Español
+El Señor de los Cielos
+Estrella News
+Estrella TV
+FILMEX
+FILMEX CLASICO
+Fluffy TV
+Jajaja
+La Fea Mas Bella
+Lucha Plus
+Madre
+Noticias Telemundo Ahora
+Noticias Univision 24/7
+Rebelde
+Spectrum Noticias
+Telemundo Al Día
+Una Familia de Diez
+Zona TUDN
+All Babies Channel
+Baby Shark TV
+My Little Pony
+Ninja Kidz TV
+Power Rangers
+Rainbow Rangers
+Sensical Jr.
+Teletubbies
+Toon Goggles
+Xumo Free Kids TV
+Bark TV
+BBC Earth
+Dog Whisperer
+EarthXtra
+Love Nature
+Love The Planet
+PBS Nature
+Stingray Naturescape
+The Jack Hanna Channel
+The Lucky Dog Channel
+The Pet Collective
+The Yorkshire Vet & Friends
+WildEarth
+Xumo Free Nature & Wildlife TV
+Dove
+Elevation Church Network
+FAITHOPE
+GaitherTV
+Highway to Heaven
+Impact Gospel
+In Touch+
+JLTV
+Joel Osteen Network
+Pure Flix TV
+Stellar
+Trinity Broadcast Network
+Xumo Free Family Movies
+Driftwood
+iHeart90s
+iHeartCountry
+iHeartCountry Classics
+iHeartRadio Hip Hop Beats
+Stingray Classic Rock
+Stingray Greatest Hits
+Stingray Hit List
+Stingray Hot Country
+Stingray Remember the 80s
+Stingray Soul Storm
+CINEVAULT Westerns
+Circle Country
+Grit Xtra
+Little House on the Prairie
+MGM Presents Westerns
+McLeod's Daughters
+The Lone Ranger
+The Rifleman
+The Virginian
+Universal Westerns
+Western Bound Wrangled by INSP
+Wild West TV
+Xumo Free Westerns
+@Home DIY
+At Home with Family Handyman
+BBC Home & Garden
+CraftsyTV
+Garden with Monty Don
+Home. Made. Nation
+Homeful
+Million Dollar Listing Vault
+NBC LX Home
+Places & Spaces
+Property & Reno
+Property Brothers
+Tastemade Home
+The Design Network
+This Old House
+Tiny House Nation
+Today's Homeowner
+Classic Car Auctions by History
+Discovery Turbo TV
+Fifth Gear
+Monster Jam
+NASCAR Channel
+Powernation
+RACER Select
+SPEEDVISION
+Top Gear
+Torque by History

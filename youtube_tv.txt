@@ -1,0 +1,160 @@
+# DNS Switch - TV channels: YouTube TV
+# updated: 2026-10-10
+# source: https://cordcuttersnews.com/?p=247543 https://cordcuttersnews.com/everything-you-need-to-know-about-youtube-tv-in-2026-pricing-channels-packages-more/
+#
+# Base Plan as listed by Cord Cutters News (Jul 21, 2026; checked against its Jan 2026 list). tv.youtube.com could not be read.
+# Left out: unclear entries ("BBC", "Zen", "Orlando City", "YouTube Originals"), add-ons and the 2026 genre plans. Locals vary by area.
+#
+# Kept by hand: one channel per line. Lines starting with # are ignored.
+# Change the "updated" date above when you edit.
+#
+ABC
+CBS
+FOX
+NBC
+The CW
+PBS
+PBS Kids
+A Wealth of Entertainment
+ABC News Live
+ACC Network
+AMC
+AMC Thrillers
+All Reality
+Adult Swim
+American Crimes
+Animal Planet
+BBC News
+BET
+BET Her
+Bloomberg Originals
+Bloomberg TV+
+Big Ten Network
+Bravo
+Bounce
+Cars TV
+CBS Sports Network
+CNBC
+CNBC World
+CNN
+Cartoon Network
+Charge!
+Cheddar News
+CMT
+Comedy Central
+Comedy.TV
+Comet TV
+Court TV
+Cozi TV
+C-SPAN
+C-SPAN 2
+C-SPAN 3
+Dabl
+Discovery Channel
+Disney Channel
+Disney Junior
+Discovery Turbo
+Disney XD
+Docurama
+Dove
+E!
+ESPN
+ESPN2
+ESPNU
+ESPNEWS
+EstrellaTV
+FOX Business
+FOX News Channel
+FOX SOUL
+FOX Weather
+FS1
+FS2
+FX
+FXM
+FXX
+Food Network
+Freeform
+GREAT TV
+Golf Channel
+Great American Faith & Living
+Great American Family
+Game Show Network
+Hallmark Channel
+Hallmark Family
+Hallmark Mystery
+HBCU GO
+HGTV
+HLN
+HSN
+IFC
+Investigation Discovery
+ION
+JusticeCentral.TV
+Law & Crime
+LiveNOW from FOX
+Local Now
+Localish
+Magnolia Network
+MotorTrend
+MS NOW
+MTV
+MTV2
+MTV Classic
+MyNetworkTV
+NBA TV
+NBC News NOW
+NBC Universo
+NBCSN
+NECN
+Nat Geo Wild
+National Geographic
+Newsmax
+NewsNation
+NFL Network
+Nickelodeon
+Nick Jr.
+Nicktoons
+One America News
+OWN
+Oxygen
+Oxygen True Crime
+Paramount Network
+Pets TV
+PickleballTV
+Pop
+Portlandia
+QVC
+Recipe.TV
+ROAR
+Scripps News
+SEC Network
+Smithsonian Channel
+Start TV
+Stories by AMC
+SundanceTV
+Syfy
+T2
+TBS
+TCM
+TLC
+TNT
+TYT
+Tastemade
+TeenNick
+Telemundo
+The Great Courses
+TheGrio
+The Nest
+Travel Channel
+truTV
+TV Land
+Univision
+USA Network
+VH1
+The Walking Dead Universe
+WE tv
+The Weather Channel
+World at War
+UniMás
+Galavisión
+TUDN

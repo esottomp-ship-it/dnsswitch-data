@@ -1,0 +1,13 @@
+# DNS Switch - TV channels: CNN
+# updated: 2026-10-10
+# source: https://apps.apple.com/US/app/id331786748
+#
+# Official App Store listing: live CNN with an All Access subscription, and "CNN, CNN International, and HLN by logging into
+# your TV provider". CNN en Español is offered as live audio only, so it is not listed.
+#
+# Kept by hand: one channel per line. Lines starting with # are ignored.
+# Change the "updated" date above when you edit.
+#
+CNN
+CNN International
+HLN

@@ -1,0 +1,57 @@
+# DNS Switch - TV channels: Molotov TV
+# updated: 2026-10-10
+# source: https://apps.apple.com/fr/app/id1053134780 https://www.tv-direct.fr/offre/molotov-tv/ https://parrainduweb.fr/blog/molotov-chaines-gratuites
+#
+# Free offer only: channels named free by the official App Store listing, or by both tv-direct.fr (Sep 2026) and parrainduweb.fr (Aug 2026).
+# Not listed (sources disagree): TV5MONDE, Brut, BFM2, France.tv, RMC Talk Sport. molotov.tv itself could not be read.
+# Paid Molotov Extra (per tv-direct.fr): TF1, TMC, TFX, LCI, TF1 Séries Films, M6, W9, 6ter, Gulli, BFM Paris, Euronews... Extended adds Paris Première, Téva...
+#
+# Kept by hand: one channel per line. Lines starting with # are ignored.
+# Change the "updated" date above when you edit.
+#
+France 2
+France 3
+France 4
+France 5
+ARTE
+LCP
+Public Sénat
+BFM TV
+CNEWS
+franceinfo
+France 24
+L'Équipe
+CSTAR
+T18
+NOVO19
+RMC Story
+RMC Découverte
+RMC Life
+RMC Mecanic
+BFM Business
+Tech&Co
+BFM Marseille Provence
+BFM Lyon Métropole
+BFM Grand Lille
+BFM Alsace
+BFM DICI Alpes du Sud
+BFM DICI Haute-Provence
+BFM Grand Littoral
+BFM Nice Côte d'Azur
+BFM Normandie
+BFM Toulon Var
+Okoo
+CGTN
+CGTN Français
+Figaro Live
+Wild Side
+M24
+Sport en France
+Newsmax
+Molotov Cinema
+Molotov Series
+Molotov Docs
+Molotov Kids
+Molotov Novelas
+Molotov Blood
+Tennis Channel Live

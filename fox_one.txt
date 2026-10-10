@@ -1,0 +1,19 @@
+# DNS Switch - TV channels: FOX One
+# updated: 2026-10-10
+# source: https://www.foxsports.com/stories/nfl/fox-one-launches-today-stream-fox-live-news-sports-entertainment-shows
+#
+# Networks named by FOX Sports at launch (Aug 2025). FOX = your local FOX station. The article ends with "and more",
+# so this list may be incomplete.
+#
+# Kept by hand: one channel per line. Lines starting with # are ignored.
+# Change the "updated" date above when you edit.
+#
+FOX
+FS1
+FS2
+Big Ten Network
+FOX Deportes
+FOX News Channel
+FOX Business
+FOX Weather
+LiveNOW from FOX

@@ -1,0 +1,155 @@
+# DNS Switch - TV channels: Tubi
+# updated: 2026-10-10
+# source: https://cordcuttersnews.com/tubi-now-has-over-260-live-channels-here-is-every-channel-currently-live-on-tubi/ https://www.cabletv.com/tubi https://soft4led.com/tubi-tv-channels/
+#
+# The official guide (tubitv.com/live) could not be read. Base list: Cord Cutters News full list (Sep 2024); a channel is kept only
+# if a 2026 listing (cabletv.com Jun 2026 or soft4led.com Jan 2026) still names it. A few newer sports channels named by both
+# 2026 listings are added. Left out: local station news feeds (FOX, Hearst, Scripps, TEGNA...) and unconfirmed names.
+#
+# Kept by hand: one channel per line. Lines starting with # are ignored.
+# Change the "updated" date above when you edit.
+#
+ABC News Live
+NBC News NOW
+LiveNOW from FOX
+Localish
+Today All Day
+USA Today
+Cheddar News
+theGrio
+Scripps News
+Estrella News
+Bloomberg TV+
+Bloomberg Originals
+CBC News
+Euronews
+FOX Weather
+NFL Channel
+NHL Channel
+MLB Channel
+NBA Channel
+NBA League TV
+NASCAR
+UFC
+FOX Sports on Tubi
+Fox Sports en Español
+DAZN Ringside
+DAZN Women's Football
+HBO Boxing
+PGA Tour
+fubo Sports Network
+FanDuel TV Extra
+Top Rank Classics
+MotorTrend FAST TV
+Stadium
+PokerGO
+Waypoint TV
+Outside TV
+NHRA
+Women's Sports Network
+beIN Sports XTRA
+beIN Sports XTRA en Español
+Real Madrid TV
+ACC Digital Network
+FilmRise Black TV
+Revolt Mixtape
+Maverick Black Cinema
+Bounce XL
+Ebony TV by Lionsgate
+Grit Xtra
+The Carol Burnett Show
+The Johnny Carson Show
+The Rifleman
+Wanted: Dead or Alive
+Baywatch
+The FBI
+Always Funny
+Anger Management
+Are We There Yet
+Comedy Dynamics
+LOL! Network
+LOL! Stand-Up
+Mystery Science Theater 3000
+BUZZR
+Deal or No Deal USA
+Fear Factor USA
+Game Show Central
+Supermarket Sweep
+The Biggest Loser
+The Masked Singer
+Wipeout Xtra
+America's Test Kitchen
+Gordon Ramsay
+The Jamie Oliver Channel
+Sweet Escapes
+FilmRise Horror
+Horror by ALTER
+Kartoon Channel
+Family Faves
+Homeful
+Antiques Road Trip
+Gardening with Monty Don
+The Bob Ross Channel
+How To
+In the Garage
+Welcome Home
+Top Gear
+Travel + Adventure
+MovieSphere
+At the Movies
+CINEVAULT
+CINEVAULT: Classics
+CINEVAULT: Westerns
+MyTime Movie Network
+Hi-YAH!
+Classic Cinema
+ION Mystery
+Midsomer Murders
+Unsolved Mysteries
+BritBox Mysteries
+Silent Witness and New Tricks
+REELZ Famous & Infamous
+MrBeast
+Vice
+TMZ
+Court TV
+Love Quest
+Nosey
+So...Real
+Family Unscripted
+Love & Desire
+Love & Marriage
+Unique Lives
+Cheaters
+Dr. G: Medical Examiner
+Alien Nation by DUST
+Haunt TV
+OuterSphere
+Ghosts Are Real
+Mysterious Worlds
+Classic Doctor Who
+Cosmos
+Love Nature
+The Jack Hanna Channel
+Xplore
+Paws & Claws
+BBC Earth
+World's Most Evil Killers
+FBI Files
+FilmRise True Crime
+Dateline 24/7
+Forensic Files
+Total Crime
+Crime Scenes
+Chasing Criminals
+Living with Evil
+Tubi Originals
+Heartland
+Nikita
+ION
+ION Plus
+Watchlist
+Generation Drama
+Estrella Games
+Cine EstrellaTV
+EstrellaTV

@@ -1,0 +1,125 @@
+# DNS Switch - TV channels: Hulu + Live TV
+# updated: 2026-10-10
+# source: https://hulu.com/guides/hulu-live-tv-channels
+#
+# Official Hulu guide (March 18, 2026). ABC, CBS, FOX, NBC, The CW and PBS are local stations and vary by area.
+# Add-on and regional sports networks are not separated on the page, so all listed channels are kept.
+#
+# Kept by hand: one channel per line. Lines starting with # are ignored.
+# Change the "updated" date above when you edit.
+#
+ABC
+CBS
+FOX
+NBC
+The CW
+PBS
+PBS Kids
+A&E
+ABC Localish
+ABC News Live
+ACC Network
+Adult Swim
+Animal Planet
+BET
+Big Ten Network
+Bloomberg Television
+Bravo
+Cartoon Network
+CBS News
+CBS Sports Network
+Charge!
+CMT
+CNBC
+CNN
+CNN International
+Comedy Central
+Comedy.tv
+Comet
+Cozi TV
+Crime+Investigation
+C-SPAN
+C-SPAN2
+C-SPAN3
+Dabl
+Discovery
+Discovery Turbo
+Disney Channel
+Disney Junior
+Disney XD
+E!
+ESPN
+ESPN2
+ESPNews
+ESPNU
+FanDuel TV
+Food Network
+FOX Business
+FOX News
+FOX Soul
+FOX Weather
+Freeform
+FS1
+FS2
+Fubo Sports Network
+FX
+FXM
+FXX
+FYI
+Galavision
+Game Show Network
+Golf Channel
+Great American Family
+Hallmark Channel
+Hallmark Mystery
+HGTV
+HLN
+Investigation Discovery
+Justice Central
+Lifetime
+Lifetime Movies
+LiveNOW from FOX
+LMN
+Magnolia Network
+MLB Network
+MotorTrend
+MS NOW
+MTV
+National Geographic
+National Geographic Wild
+NBC News NOW
+Newsmax
+NewsNation
+NFL Network
+Nick Jr.
+Nickelodeon
+OWN
+Oxygen
+Paramount Network
+Pop TV
+QVC
+SEC Network
+Smithsonian Channel
+Start TV
+Syfy
+T2 Live Tennis
+TBS
+TCM
+Telemundo
+The History Channel
+The Weather Channel
+TheGrio
+TLC
+TNT
+Travel Channel
+truTV
+True Crime Network
+TUDN
+TV Land
+UniMás
+Univision
+USA Network
+Vevo
+VH1
+Vice
+World at War

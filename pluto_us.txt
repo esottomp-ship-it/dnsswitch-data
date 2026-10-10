@@ -1,0 +1,395 @@
+# DNS Switch - TV channels: Pluto TV
+# updated: 2026-10-10
+# source: https://www.edusters.com/pluto-tv/us-nationwide https://channellineups.com/pluto-tv/ https://cordcuttersnews.com/pluto-tv-just-added-3-new-channels-to-start-june-2026/ https://cordcuttersnews.com/pluto-tv-adds-5-more-new-live-channels-to-start-august-2026/
+#
+# The official guide (pluto.tv/live-tv) is JS-only and could not be read. Channels below are in the US guide listing
+# at edusters.com (verified 2026-06-07) AND channellineups.com (updated 2026-05-23), plus additions reported by Cord Cutters News
+# (June and Aug 2026). Left out: names found in only one listing, and local CBS News / News 12 / Boston 25 station feeds.
+#
+# Kept by hand: one channel per line. Lines starting with # are ignored.
+# Change the "updated" date above when you edit.
+#
+Pluto TV Spotlight
+Pluto TV Franchise Favorites
+Pluto TV Icons
+Pluto TV Action
+Pluto TV Reaction
+Pluto TV Fantastic
+Pluto TV Comedy
+Pluto TV Drama
+Pluto TV Romance
+BET Cinema
+BET Comedy Movies
+BET Visionaries
+Pluto TV Crime Movies
+Pluto TV Thrillers
+Pluto TV Horror
+Pluto TV Terror
+00s Replay
+90s Throwback
+80s Rewind
+70s Cinema
+Moviesphere
+Pluto TV Westerns
+Classic Movies Channel
+Pluto TV Staff Picks
+Flicks of Fury
+Pluto TV Cult Films
+Sitcom Legends
+Cheers + Frasier
+TV Land Sitcoms
+More TV Sitcoms
+Hit Sitcoms
+BET Throwbacks
+BET x Tyler Perry Comedy
+Black Family Sitcoms
+Funny AF
+Sketchy AF
+Comedy Central Pluto TV
+Ridiculousness
+Tosh.0
+Wild 'N Out
+America's Funniest Home Videos
+Mystery Science Theater 3000
+RiffTrax
+Always Funny Videos
+FailArmy
+Classic TV Comedy
+Classic TV: Families
+BET Classics
+Hogan's Heroes
+I Love Lucy
+The Andy Griffith Show
+The Addams Family
+Beverly Hillbillies
+Happy Days
+Three's Company
+The Love Boat
+Dynasty
+Little House on the Prairie
+Classic TV Drama
+Classic TV Crime Drama
+Universal Crime
+Matlock
+Murder She Wrote
+Perry Mason
+Mission Impossible
+The Bob Ross Channel
+Western TV
+Gunsmoke
+Bonanza
+The Wild Wild West
+Rawhide
+The Rifleman
+The Lone Ranger
+Classic Movie Westerns
+Star Trek
+Star Trek: The Next Generation
+Star Trek: Deep Space Nine
+Star Trek: Voyager
+The X-Files
+Pluto TV Adventure
+Battlestar Galactica
+The Twilight Zone
+Stargate
+Doctor Who Classic
+Andromeda
+Pluto TV Sci-Fi
+Universal Monsters
+CSI
+CSI: Miami
+CSI: NY
+Criminal Minds
+Law & Order
+Blue Bloods
+S.W.A.T.
+Nash Bridges
+Pluto TV Crime Drama
+Pluto TV Hometown Drama
+BET x Tyler Perry Drama
+Ebony TV Drama
+TV Land Drama
+More TV Drama
+Universal Action
+The Walking Dead Universe
+Stories by AMC
+Midsomer Murders
+BritBox Mysteries
+Feel Good Drama
+Supernatural Drama
+Beverly Hills 90210
+Heartland
+Degrassi
+Pluto TV True Crime
+More True Crime
+The First 48
+Live PD Presents
+American Crimes
+Dateline 24/7
+48 Hours
+Living With Evil
+Unsolved Mysteries
+The New Detectives
+Cold Case Files by A&E
+Forensic Files
+Oxygen True Crime Archives
+Court TV
+A&E Crime 360
+COPS
+Car Chase
+Dog the Bounty Hunter
+Ancient Aliens
+Spike Pluto TV
+Pluto TV Reality
+Bar Rescue
+Pickers & Pawn
+Storage Wars by A&E
+Xtreme Outdoor by HISTORY
+Spike Outdoors
+Tough Jobs
+Wicked Tuna
+Pluto TV Backcountry
+Pluto TV Lives
+UnXplained Zone
+Pluto TV Paranormal
+Ghost Hunters Channel
+Pluto TV Cars
+Top Gear
+Cheaters
+Dating Disasters
+World of Love Island
+Matched Married Meet by Lifetime
+VH1 Queens of Reality
+Black Ink Crew
+Love & Hip Hop
+Jersey Shore
+Teen Mom
+Million Dollar Listing Vault
+Bravo Vault
+Real Housewives Vault
+Bad Girls Club
+Warner Bros. TV Say Yes to the Dress
+All Reality WE tv
+Pluto TV Competition
+America's Next Top Model
+Project Runway
+DCC: Making the Team
+Ink Master
+Gordon Ramsay's Hell's Kitchen
+Big Brother
+Survivor
+The Amazing Race
+The Challenge
+Paramount+ Picks
+BET Pluto TV
+50 Cent Action
+El Rey Rebel
+ION
+Lifetime Movie Favorites
+Hallmark Movies & More
+Bounce XL
+ALLBLK Gems
+MTV Pluto TV
+Logo Pluto TV
+Pluto TV Pride
+Revry
+ET Live
+Live Music
+The Price Is Right
+The Price Is Right: The Barker Era
+Let's Make A Deal
+Family Feud
+Family Feud Classic
+GrowthDay Network
+Supermarket Sweep
+Deal or No Deal
+BUZZR
+Pluto TV Game Shows
+Game Show Central
+Best of Dr. Phil
+Tony Robbins Network
+Beyond the Gates
+Nosey
+Confess by Nosey
+Judge Nosey
+The Judge Judy Channel
+Hot Bench
+QVC
+QVC2
+HSN
+ShopLC
+CBS News 24/7
+NBC News NOW
+ABC News Live
+CNN Headlines
+LiveNOW from FOX
+Newsmax2
+TODAY All Day
+Scripps News
+FOX Weather
+WeatherNation
+BBC News
+Bloomberg
+Blaze Live
+America's Voice
+OAN Plus
+Salem News Channel
+The First
+CBS Sports HQ
+FOX Sports
+NBC Sports NOW
+NFL Channel
+The NBA Channel
+MLB
+PGA Tour
+GolfPass
+TennisChannel 2
+Golazo Network
+UEFA Champions League
+PBR RidePass
+UFC
+Top Rank Classics
+DAZN Ringside
+Bellator MMA
+ONE Championship TV
+PFL MMA
+TNA Wrestling
+AWSN
+Women's Sports Network
+Swerve Women's Sports
+World Poker Tour
+PokerGO
+Triton Poker
+F1 Channel
+Monster Jam
+Discovery Turbo
+PowerNation
+FanDuel TV Extra
+Pluto TV Military
+Pluto TV History
+60 Minutes
+CNN Originals
+Modern Marvels by HISTORY
+Pluto TV Science
+MythBusters
+Smithsonian Channel Selects
+The Martha Stewart Channel
+Property Brothers
+Chip & Jo: Feels Like Home by Magnolia Network
+This Old House
+Homeful
+Beach Day
+Ultimate Builds
+Rustic Retreats
+Tiny House Nation
+Home.Made.Nation
+PBS Antiques Roadshow
+Antiques Roadshow UK
+Antiques Road Trip
+Warner Bros. TV Sweet Escapes
+Chef vs Chef by Food Network
+Best of Bobby Flay by Food Network
+The Jamie Oliver Channel
+Home Cooking by Food Network
+America's Test Kitchen
+Tastemade Smokehouse
+No Reservations
+Delicious Eats by Food Network
+BBC Earth
+Dinos 24/7
+PBS Nature
+Love Nature
+Naturescape
+ZenLIFE by Stingray
+The Pet Collective
+Dog Whisperer
+Nick Jr. Pluto TV
+Mister Rogers' Neighborhood
+Peppa Pig
+Little Stars Universe
+Little Angel's Playroom
+Little Angel's Playroom en Español
+El Reino Infantil
+Baby Shark TV
+Nick Pluto TV
+Nick en Español
+90's Kids
+90s Kids TV 2
+iCarly TV
+Totally Turtles
+Pokémon
+Pokémon en español
+Transformers TV
+Go Go Gadget!
+LEGO Kids TV
+Strawberry Shortcake and Friends
+Kartoon Channel!
+Ryan and Friends
+Forever Kids
+Garfield and Friends
+Pluto TV Anime
+Pluto TV Anime Movies
+Crunchyroll
+ANIME x HIDIVE
+Sailor Moon
+One Piece
+Boruto: Naruto Next Generations
+Inuyasha
+Yu-Gi-Oh!
+Cine Premiere
+Cine en español
+Cine aventura
+Cine adrenalina
+Más adrenalina
+Cine terror
+Cine comedia
+Cine Amor
+Telemundo telenovelas clásicas
+Pluto TV Novelas
+CBS en español
+CSI en Español
+CSI: Miami en español
+CSI: NY en español
+The Walking Dead en español
+La Familia del Barrio
+Acapulco Shore
+MTV en español
+Comedy Central en español
+EstrellaTV
+Casos de la Dra. Polo
+Vidas Extremas
+Construcciones Asombrosas
+Sala de Emergencias: Historias Inéditas
+Crimen
+Crímenes imperfectos
+Misterios sin resolver
+Investiga
+CNN Noticias
+Estrella News
+Vevo Regional Mexicano
+Vevo Íconos Latinos
+Vevo 70s
+Vevo 80s
+Vevo 90s
+Vevo 2K
+CMT Equal Play
+XITE Classic Country
+Vevo Country
+Yo! MTV
+Vevo True School Hip-Hop
+Vevo R&B
+Vevo Rock
+XITE Rock x Metal
+Vevo Pop
+MTV Spankin' New
+MTV Biggest Pop
+MTV Flow Latino
+TikTok Radio
+XITE Gospel
+Classica
+Stingray DJAZZ
+Qello Concerts
+Pluto Royal Drama
+Ghosts
+Pluto Quirky AF
+Pluto Action/Drama
