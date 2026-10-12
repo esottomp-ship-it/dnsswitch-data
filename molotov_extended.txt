@@ -1,0 +1,136 @@
+# DNS Switch - TV channels: Molotov TV (Extended)
+# updated: 2026-10-12
+# source: https://extended.molotov.tv/
+#
+# Channels named on Molotov's official Extended page ("Plus de 150 chaînes"), duplicates removed.
+# Left out: names that are apps or catalogues rather than channels (MyTF1, France TV, M6+, Okoo,
+# RMC BFM Play) and entries shown only as pictures without a name.
+# The page does not say which channels are in the separate Grand Cinéma offer.
+#
+# Kept by hand: one channel per line. Lines starting with # are ignored.
+# Change the "updated" date above when you edit.
+#
+TF1
+France 2
+France 3
+France 4
+France 5
+M6
+ARTE
+LCP Public Sénat
+W9
+TMC
+TFX
+Gulli
+BFM TV
+CNEWS
+LCI
+franceinfo
+CSTAR
+Chérie 25
+TF1 Séries Films
+L'Équipe
+6ter
+RMC Story
+RMC Découverte
+BFM Business
+BFM Lyon
+BFM Marseille Provence
+BFM Grand Littoral
+BFM Alsace
+BFM Toulon Var
+BFM Normandie
+BFM Nice Côte d'Azur
+BFM DICI Alpes du Sud
+BFM DICI
+Tech&Co
+RTL9
+TF1 4K
+France 2 UHD
+TMC +1
+TV5MONDE
+NRJ Hits
+Gong
+Gong Max
+Equidia
+Sky News
+CNBC
+Newsmax
+Le Média
+Bloomberg
+Cheddar News
+Sport en France
+MGG TV
+France 24
+France 24 English
+France 24 Arabic
+France 24 Español
+Euronews
+i24NEWS Français
+i24NEWS English
+i24NEWS Arabic
+BSmart
+CGTN
+CGTN Français
+Le Figaro TV Île-de-France
+M24
+KTO
+Gourmand TV
+Lucky Jack TV
+Mezzo
+Luxe TV
+Luxe TV 4K
+Fashion TV
+AutoPlus
+Trek
+TV Monaco
+Playboy TV
+Trace Urban
+Trace Caribbean
+Trace Latina
+viàTéléPaese
+TV8 Mont-Blanc
+Game Toon
+WildSide TV
+Culture Pub
+Homicide
+Allociné
+Epicurieux
+Popcorn TV
+Action
+Olive&Tom
+Molotov Channels
+Molotov Channels Cinéma
+Molotov Channels Séries
+Molotov Channels Kids
+Molotov Channels Novelas
+Molotov Channels Docs
+Molotov Channels Family
+Molotov Channels Life
+Molotov Channels Choc
+Molotov Channels Blood
+Enquêtes de choc
+Alerte à Malibu
+Ardivision
+Ciné Nanar
+Ciné Western
+Qui veut gagner des millions
+Les Z'amours
+Les Anges
+Le meilleur de la TV réalité
+Le meilleur d'Arthur
+Les secrets de nos régions
+Emotion'L
+Fréquence Novelas
+C'est pas Sorcier
+DriveTV
+Wasabi
+Love the Planet
+Love Crime and History
+Love Trailers
+Un si grand soleil
+Y'a que la vérité qui compte
+13ème Rue
+SyFy
+Bravo
+DreamWorks

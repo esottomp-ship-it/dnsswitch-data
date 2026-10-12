@@ -1,5 +1,5 @@
 # DNS Switch - TV channels: country of each channel (used to group channels by country)
-# updated: 2026-10-10
+# updated: 2026-10-12
 #
 # HOW TO EDIT
 # - One channel per line:   channel name (as in the channel list, without the quality) | country code
@@ -1547,3 +1547,79 @@ Molotov Kids                       | FR
 Molotov Novelas                    | FR
 Molotov Blood                      | FR
 Tennis Channel Live                | FR
+# Molotov TV (Extended), added 2026-10-12
+LCP Public Sénat                   | FR
+Chérie 25                          | FR
+BFM Lyon                           | FR
+BFM DICI                           | FR
+RTL9                               | FR
+TF1 4K                             | FR
+France 2 UHD                       | FR
+TMC +1                             | FR
+TV5MONDE                           | INT
+NRJ Hits                           | FR
+Gong                               | FR
+Gong Max                           | FR
+Equidia                            | FR
+Le Média                           | FR
+MGG TV                             | FR
+France 24 English                  | INT
+France 24 Arabic                   | INT
+France 24 Español                  | INT
+i24NEWS Français                   | FR
+i24NEWS English                    | INT
+i24NEWS Arabic                     | INT
+BSmart                             | FR
+Le Figaro TV Île-de-France         | FR
+Gourmand TV                        | FR
+Lucky Jack TV                      | FR
+Mezzo                              | FR
+Luxe TV                            | INT
+Luxe TV 4K                         | INT
+AutoPlus                           | FR
+Trek                               | FR
+TV Monaco                          | MC
+Playboy TV                         | INT
+Trace Urban                        | FR
+Trace Caribbean                    | INT
+Trace Latina                       | INT
+viàTéléPaese                       | FR
+Game Toon                          | FR
+WildSide TV                        | FR
+Culture Pub                        | FR
+Allociné                           | FR
+Epicurieux                         | FR
+Popcorn TV                         | FR
+Action                             | FR
+Olive&Tom                          | FR
+Molotov Channels                   | FR
+Molotov Channels Cinéma            | FR
+Molotov Channels Séries            | FR
+Molotov Channels Kids              | FR
+Molotov Channels Novelas           | FR
+Molotov Channels Docs              | FR
+Molotov Channels Family            | FR
+Molotov Channels Life              | FR
+Molotov Channels Choc              | FR
+Molotov Channels Blood             | FR
+Enquêtes de choc                   | FR
+Alerte à Malibu                    | FR
+Ardivision                         | FR
+Ciné Nanar                         | FR
+Ciné Western                       | FR
+Qui veut gagner des millions       | FR
+Les Z'amours                       | FR
+Les Anges                          | FR
+Le meilleur de la TV réalité       | FR
+Le meilleur d'Arthur               | FR
+Les secrets de nos régions         | FR
+Emotion'L                          | FR
+Fréquence Novelas                  | FR
+C'est pas Sorcier                  | FR
+DriveTV                            | FR
+Love Crime and History             | FR
+Love Trailers                      | FR
+Un si grand soleil                 | FR
+Y'a que la vérité qui compte       | FR
+13ème Rue                          | FR
+DreamWorks                         | INT
