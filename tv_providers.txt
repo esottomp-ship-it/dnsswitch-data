@@ -14,7 +14,7 @@ Zattoo {country} | CH | Ultimate | zattoo_ch.txt
 France Télévisions | FR |  | francetv.txt
 BBC iPlayer | GB |  | bbc_iplayer.txt
 ITVX | GB |  | itvx.txt
-Channel 5 | GB |  | my5.txt
+5 | GB |  | my5.txt
 TF1+ | FR |  | tf1.txt
 M6+ | FR |  | m6.txt
 Molotov TV | FR |  | molotov.txt
