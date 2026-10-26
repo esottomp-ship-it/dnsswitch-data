@@ -1,5 +1,5 @@
 # DNS Switch - TV channels: Zattoo Switzerland (Ultimate)
-# updated: 2026-10-04
+# updated: 2026-10-26
 # source: https://zattoo.com/ch/en/channels
 #
 # Updated automatically every week from Zattoo's channel page.
@@ -80,7 +80,7 @@ RTS 2 | Full HD
 TF1 | Full HD
 MDR SACHSEN | HD
 SWR BW | HD
-3+ Family | Full HD
+3+ Family / Nickelodeon | Full HD
 Kika | Full HD
 Eurosport 1 | Full HD
 M6 Suisse | Full HD
@@ -203,7 +203,7 @@ Sky TG24 | SD
 Food Network | SD
 5STAR | SD
 U&Dave | SD
-Rai Scuola | HD
+Italiana powered by Rai | HD
 Rai Yoyo | SD
 5SELECT | SD
 Giallo | HD
@@ -271,10 +271,12 @@ E4 Extra | SD
 5ACTION | SD
 Bauer, ledig, sucht... | HD
 Zeno True Crime | HD
+All Christmas | Full HD
 Servus TV Österreich | Full HD
 Steiermark TV | HD
 wedo movies | HD
 wedo true stories | HD
+Weihnachtskino | Full HD
 Naruto | HD
 Akiba Anime | Full HD
 Amasia | HD
@@ -360,6 +362,7 @@ Dyn Sport Mix | Full HD
 Scooore | HD
 Streamster TV | HD
 wedo sports | HD
+wedotv Cars | HD
 Al Arabiya | SD
 Asharq News | HD
 Al Aoula Inter | HD
