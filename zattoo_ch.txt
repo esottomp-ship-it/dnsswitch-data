@@ -1,5 +1,5 @@
 # DNS Switch - TV channels: Zattoo Switzerland (Ultimate)
-# updated: 2026-10-26
+# updated: 2026-11-09
 # source: https://zattoo.com/ch/en/channels
 #
 # Updated automatically every week from Zattoo's channel page.
@@ -115,7 +115,7 @@ RSI La2 | Full HD
 RMC Story | HD
 Canale 5 | Full HD
 TeleBärn | HD
-Super! | SD
+Super! | HD
 RMC Découverte | Full HD
 RMC Life | Full HD
 RSI La1 | Full HD
@@ -143,7 +143,7 @@ Rai Tre | Full HD
 TeleBielingue | HD
 Cielo | SD
 Rete 4 | Full HD
-K2 | SD
+K2 | HD
 More Than Sports TV | Full HD
 Rai 4 | HD
 Sky News | SD
@@ -158,7 +158,7 @@ Tele D | HD
 1FLTV | HD
 La 7 | HD
 TeleZ | HD
-Frisbee | SD
+Frisbee | HD
 TV8 Mont-Blanc | HD
 Euronews [ger] | HD
 LaTele | HD
@@ -199,7 +199,7 @@ Kanal9 | HD
 TV2000 | HD
 Canal Alpha JU | HD
 TVM3 | HD
-Sky TG24 | SD
+Sky TG24 | HD
 Food Network | SD
 5STAR | SD
 U&Dave | SD
@@ -255,20 +255,6 @@ KTO | SD
 GOD TV | SD
 Arirang TV | HD
 SONLife | SD
-BBC One London | Full HD
-BBC Three | Full HD
-BBC Red Button 1 | Full HD
-BBC Scotland | HD
-BBC Alba | HD
-DMAX UK | SD
-Quest | HD
-Quest Red | SD
-TRUE CRIME | SD
-Great! Mystery | SD
-Great! action | SD
-Great! TV | SD
-E4 Extra | SD
-5ACTION | SD
 Bauer, ledig, sucht... | HD
 Zeno True Crime | HD
 All Christmas | Full HD
@@ -392,8 +378,21 @@ TV SLO2 | HD
 RTS Svet | HD
 RTSH Sat | HD
 RTCG Sat | HD
+BBC One London | Full HD
+BBC Three | Full HD
+BBC Red Button 1 | Full HD
+BBC Scotland | HD
+BBC Alba | HD
+DMAX UK | SD
+Quest | HD
+Quest Red | SD
+TRUE CRIME | SD
+Great! Mystery | SD
+Great! action | SD
+Great! TV | SD
+E4 Extra | SD
+5ACTION | SD
 CANAL+ en clair | HD
-Wasabi | HD
 TFX | Full HD
 Homicide | HD
 Docstory | HD
