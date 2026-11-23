@@ -254,7 +254,7 @@ XumoTV                         | US
 yallo TV                       | CH
 YouSee                         | DK
 YuppTV                         | AU, IN, GB
-Zattoo                         | DE, CH
+Zattoo                         | CH, DE
 ZDF                            | DE
 ZDF TiVi                       | DE
 Zee Family                     | IN
