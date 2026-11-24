@@ -1,0 +1,224 @@
+{
+ "v": 1,
+ "updated": "2026-11-24",
+ "regions": [
+  "US",
+  "GB",
+  "FR",
+  "ES",
+  "IT",
+  "CA",
+  "DE",
+  "MX",
+  "BE",
+  "JP"
+ ],
+ "more": [
+  "AU",
+  "DK",
+  "IN",
+  "NL",
+  "BR"
+ ],
+ "services": [
+  {
+   "name": "Netflix",
+   "pkgs": [
+    "com.netflix.mediaclient",
+    "com.netflix.ninja"
+   ],
+   "match": [
+    "netflix"
+   ]
+  },
+  {
+   "name": "Prime Video",
+   "pkgs": [
+    "com.amazon.avod.thirdpartyclient",
+    "com.amazon.amazonvideo.livingroom"
+   ],
+   "match": [
+    "primevideo",
+    "amazonprimevideo"
+   ]
+  },
+  {
+   "name": "Disney+",
+   "pkgs": [
+    "com.disney.disneyplus"
+   ],
+   "match": [
+    "disney",
+    "disneyplus"
+   ]
+  },
+  {
+   "name": "Apple TV",
+   "pkgs": [
+    "com.apple.atve.androidtv.appletv",
+    "com.apple.atve.android.appletv"
+   ],
+   "match": [
+    "appletv"
+   ]
+  },
+  {
+   "name": "Paramount+",
+   "pkgs": [
+    "com.cbs.app",
+    "com.cbs.ott",
+    "com.cbs.ca"
+   ],
+   "match": [
+    "paramount",
+    "paramountplus"
+   ]
+  },
+  {
+   "name": "HBO Max",
+   "pkgs": [
+    "com.wbd.stream",
+    "com.hbo.hbonow"
+   ],
+   "match": [
+    "hbomax",
+    "max"
+   ]
+  },
+  {
+   "name": "U-NEXT",
+   "pkgs": [
+    "jp.unext.mediaplayer"
+   ],
+   "match": [
+    "unext"
+   ]
+  },
+  {
+   "name": "JioHotstar",
+   "pkgs": [
+    "in.startv.hotstar"
+   ],
+   "match": [
+    "jiohotstar",
+    "hotstar"
+   ]
+  },
+  {
+   "name": "SonyLIV",
+   "pkgs": [
+    "com.sonyliv"
+   ],
+   "match": [
+    "sonyliv"
+   ]
+  }
+ ],
+ "byRegion": {
+  "US": [
+   "Netflix",
+   "Prime Video",
+   "Disney+",
+   "Apple TV",
+   "Paramount+"
+  ],
+  "GB": [
+   "Netflix",
+   "Prime Video",
+   "Disney+",
+   "Apple TV",
+   "Paramount+"
+  ],
+  "FR": [
+   "Netflix",
+   "Prime Video",
+   "Disney+",
+   "Apple TV",
+   "Paramount+"
+  ],
+  "IT": [
+   "Netflix",
+   "Prime Video",
+   "Disney+",
+   "Apple TV",
+   "Paramount+"
+  ],
+  "CA": [
+   "Netflix",
+   "Prime Video",
+   "Disney+",
+   "Apple TV",
+   "Paramount+"
+  ],
+  "DE": [
+   "Netflix",
+   "Prime Video",
+   "Disney+",
+   "Apple TV",
+   "Paramount+"
+  ],
+  "MX": [
+   "Netflix",
+   "Prime Video",
+   "Disney+",
+   "Apple TV",
+   "Paramount+"
+  ],
+  "AU": [
+   "Netflix",
+   "Prime Video",
+   "Disney+",
+   "Apple TV",
+   "Paramount+"
+  ],
+  "BR": [
+   "Netflix",
+   "Prime Video",
+   "Disney+",
+   "Apple TV",
+   "Paramount+"
+  ],
+  "ES": [
+   "Netflix",
+   "Prime Video",
+   "Disney+",
+   "Apple TV",
+   "HBO Max"
+  ],
+  "BE": [
+   "Netflix",
+   "Prime Video",
+   "Disney+",
+   "Apple TV",
+   "HBO Max"
+  ],
+  "DK": [
+   "Netflix",
+   "Prime Video",
+   "Disney+",
+   "Apple TV",
+   "HBO Max"
+  ],
+  "NL": [
+   "Netflix",
+   "Prime Video",
+   "Disney+",
+   "Apple TV",
+   "HBO Max"
+  ],
+  "JP": [
+   "Netflix",
+   "Prime Video",
+   "Disney+",
+   "Apple TV",
+   "U-NEXT"
+  ],
+  "IN": [
+   "Netflix",
+   "Prime Video",
+   "JioHotstar",
+   "Apple TV",
+   "SonyLIV"
+  ]
+ }
+}
